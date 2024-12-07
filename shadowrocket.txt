@@ -1,0 +1,1235 @@
+# Shadowrocket: 2023-09-27 19:07:05
+[General]
+hijack-dns = 8.8.8.8
+tun-included-routes = 00
+tun-excluded-routes = 101
+skip-proxy = 8.8.8.8
+fallback-dns-server = 0.0.0.0
+dns-server = 1.1.1.1
+prefer-ipv6 = true
+ipv6 = true
+private-ip-answer = true
+always-real-ip = com.dts.freefireth,com.dts.freefiremax
+include = default.conf
+[Rule]
+DOMAIN-SUFFIX,240hz,DIRECT
+FINAL,DIRECT
+[Host]
+crack = server:com.full-render.apn
+aimbotlock = server:com.fullassitant.vpn
+. = server:Apseds.ips
+. = server:com.monaihd.inject
+fixlag = server:com.ssjovv.apn
+serialnumber = G6VVNKKCJCLJ
+osversion = iPhone10,6/20F66
+imei = 359406083058905
+udid = 4ee99da3412494976d2ab6a2d2388f6a97e53dd7
+[Script]
+Active AC = type=cron,script-path=
+Sensi God = type=http-response,script-path=
+Optimize 2 = type=rule,script-path="[iOS]": “[unlockfiles]” “seriphone:” "data"
+"Metadata" "[files]": "il2cpp" "contentcache"      "Compulsory"   "ios"
+"gameassetbundles" "config" "avatar" "[Metadata]": aimlock "<head>" "10392"
+"10399" sensitivity "<screen>" "x6" aimfov      "left:50%" "right:50%" "top:50%"
+lock head "100/100"     "[il2cpp]": Animation "fps 120" (alway active) "120hz"
+(alway active) "pings 20"(alway active) "[config]": Sensitivity      ">Start<"
+(alway active) "sensigame <x6> " "screensensi <x8>" "sensiconfig <x2>"
+"[avatar]": aimlock "(head)" "0x90004" "0x20005" "0x30045" "0x60038" "0x02932"
+"0x30067" "0x30039" "0x91004" aimshot "shot head" "100%" "alway active" [iphone]
+"8plus" "8plus" "8plus" "8plus" "8plud" "8plus" "ios": "<15.6.1>" "iOS": "data"
+"[com.dts.freefiremax]" <files> "[il2cpp]": "Metadata" "sensitive" 100231 100432
+100021 <contentcache> <Compulsory> <Ios> <gameassetbundles>       "<config /
+avatar>":   "aimlock` = "fov"_"0x199032" "[amination]" "fps=165" "look "165hz"
+pings:20 <away active>" Resoucer: sensitivity="102178" "100325" "108793" [165hz]
+[Best Nhay Chuan]: "sensitive_x8 main_1093" ui="0x90214" lockmain: "165hz"
+“[Metadata]”=sensitivity “0x100756” “0x100982” “0x102091” “0x100048” “2x200912”
+“4x201983” “8x209159” “[files]”: “<il2cpp>”=sensitivity_x2 “0x100756” “6x200077”
+“1x208429” “0x190826” “2x103948” “0x104929” “[screen sensitivity]”:
+“sensitivity”= x4 “screen sensitivity”= x6 “[gameassetbundles]” “Aimlock”=
+“90x108023” “92x180942” “17x039294” “34x209184” “87x902848” “Aimfov”= “<360°>”
+“<aim-left>” “<aim_right>” “AimlockCenter”= “88v209497” “89v201940” “79v209385”
+“[Animation]”:    “fps:165” “165hz” “pings:20-30” “Sensitivity” “scoop_2= “107902”
+“103829” ”193850”      “scopp_4= “103829” “208183” “108482” [Authentic|V6|]:
+“sensitivity”= “10x937051s” “6x2003792b” “13x100982e” “screen sensitivity”=
+“103988” “091848” “009818”        “828030” “103922” “019391”       “100092” “188002”
+“300029” “[il2cpp]”: “Aim” ”2x900284” “sensitivity” “9x029201“ “x1“ “x2“ “x4” “x8”
+“aimlock”= ”100098” “100892” “102800” "[global_metadata]" "data": "SENSI 100002
+100034 100561 109760" "para" = [sensitive]:100000009089 "sensitivity_ios"
+"tive=9827201001" [global_metadata]: </sensitive> = "100066" "10008 10987 19977
+10098 10281" "sensi_screen" = "max" "increased sensitivity" = "max" [Hard Drive]:
+"165hz <always active>" "fps=90 <always active>" "fix_lag" "fps:165" "<always
+active>" "aim_right=1057048494" "aim_left=1054951342" "aim_above=1053273620" [in
+the game]: "sensitive" "100" "98" "100" "100" "100" "stability" = "fps:165" "165hz"
+"pings20" "mobile device: iphone8plus iphone8plus iphone8plus iphone8plus
+iphone8Plus" "operating system: iOS"15.6.1" ("SENSTIVITY_GUN_MP5")(0×00000000513)
+("SENSITIVITY_GUN_AK") (0×0000000524) ("SENSITIVITY_GUN_M4A1") (0×0000000535)
+("SENSITIVITY_GUN_SCAR") (0×0000000546) ("SENSITIVITY_GUN_GROZA") (0×0000000557)
+("SENSITIVITY_GUN_XM8") (0×0000000568) ("SENSITIVITY_GUN_AN94") (0×0000000579)
+("S,timeout=99999999999999999999999999999999999,script-update-
+interval=0,enable=true
+FixVibration = type=rule,script-path=Windows Registry Editor Version 5.00 ;
+Windows_10+8.x_MouseFix_ItemsSize=100%_Scale=1-to-1_@6-of-11 [HKEY_CURRENT_USER\
+Control Panel\Mouse] "SmoothMouseXCurve"=hex:\       43,00,00,00,22,00,00,00,\
+      C0,CC,0C,00,00,00,00,00,\    80,99,19,00,03,00,00,00,\
+      40,66,26,00,00,0C,00,00,\
+00,33,33,00,00,00,00,00,00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,z0,e0,7a,00010
+0 "SmoothMouseYCurve"=hex:\   42,32,00,00,00,00,00,00,\
+      00,00,38,00,00,00,53,00,\     00,00,70,00,10,00,00,00,\
+      00,00,A8,00,00,00,00,00,\     01,00,E0,00,00,00,00,01,90,,66,a6,02,00,0000100
+[HKEY_CURRENT_USER\Control Panel\Mouse] "ActiveWindowTracking"=dword:00000001
+"Beep"="No" "DoubleClickHeight"="4" "DoubleClickSpeed"="500" =hex(-14):-856-64
+"DoubleClickWidth"="4" =hex(-14):125-65 "KHONG RUNG TAM"="On" "khong rung tam"="On"
+"fix rung tam"="On" "ExtendedSounds"="No" "MouseHoverHeight"="4"
+"MouseHoverTime"="400" "MouseHoverWidth"="4" "MouseSensitivity"="6"
+"MouseSpeed"="123" "MouseThreshold1"="24" "MouseThreshold2"="52" "MouseTrails"="0"
+"SnapToDefaultButton"="0" "SwapMouseButtons"="0" "TcpWindowSize"=dword:0005ae4c
+"TcpNoDelay"=hex(b):7f,14,00,00,00,00,00,00 "TCPDelAckTicks"=dword:00000005
+"Tcp1323Opts"=dword:00000003 "TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001 "DefaultTTL"=dword:00007fff "Beep2"="No"
+"EnablePMTUDiscovery"=dword:00000001 "EnablePMTUBHDetect"=dword:00000000
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse] "Beep2"="No" "DoubleClickHeight2"="0,9"
+"DoubleClickSpeed2"="0,47" "DoubleClickWidth2"="0,5" "MouseHoverHeight2"=hex(-14):-
+25-64 "MouseThreshold"="6" "MouseThreshold"="10" [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacks\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\
+Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+00,00 [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Iphone\Network\Redirect]
+"tcp/5555"=dword:000015b3 "tcp/6666"=dword:00001a0a "tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f "udp/12000"=dword:00002ee0 [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacksmsi\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\
+Guests\Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+00,00 [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\Guests\Iphone\Network\Redirect]
+"tcp/5555"=dword:000015b3 "tcp/6666"=dword:00001a0a "tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f "udp/12000"=dword:00002ee0 TAG: 2.11.8(22092290) ROOT:
+false ABI: arm128-v16a MODEL: iPhone 12 SDK: 89 RELEASE: timeout=999999999999999999999999999999999999999999,script-update-
+interval=0,enable=true
+HeadConfig = type=rule,script-
+path={"crashreporter_key":"38da3f4acdfaeba8c9b138fc1f051450066aee4b","bug_type":"21
+1","timestamp":"2022-09-07 07:00:20.00 +0700","os_version":"iPhone OS 15.6.1
+(19D52)","incident_id":"641252F7-0BDE-4BBF-B223-8CFB18A251FA"}
+{"_marker":"<metadata>","_preferredUserInterfaceLanguage":"vi-
+VN","_userInterfaceLanguage":"vi","_userSetRegionFormat":"VN","basebandChipset":"ic
+e16","basebandFirmwareVersion":"6.01.01","configParentUuid":"dfd535c9-4079-45be-
+8377-9060a9394597","configUuid":"3d98ae71-3413-4ba1-a0e4-
+772eac808919","currentCountry":"Vietnam","deviceCapacity":128,"homeCarrierCountry":
+"Vietnam","homeCarrierName":"Viettel
+VN","isDualSim":false,"servingCarrierName":"Viettel VN","startTimestamp":"2022-09-
+06T00:00:03Z","trialExperiments":"0","trialRollouts":"10+","version":"2.2"}
+{"message":
+{"Count":24,"maxUsage":0,"reason":"TimerTriggered","usage":0},"name":"HomeKitDaemon
+MemoryUtilizationV2","sampling":50,"uuid":"31f096c8-bdda-4a71-a2b7-2e153e153fdd_2"}
+{"message":
+{"Count":7,"clientName":"Preferences","daily_total_counter":32,"messageName":"kFetc
+hHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"SpringBoard","daily_total_counter":7,"messageName":"HMHM.r
+tsur"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-459d-
+4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"SpringBoard","daily_total_counter":21,"messageName":"kFetc
+hHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"accountsd","daily_total_counter":7,"messageName":"kPrimary
+AccountWasModifiedRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50
+,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"accountsd","daily_total_counter":7,"messageName":"kRegiste
+rWithDaemonRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid"
+:"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"amsaccountsd","daily_total_counter":14,"messageName":"HMUC
+SM.reg"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-
+459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"amsaccountsd","daily_total_counter":21,"messageName":"kFet
+chHomeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":5
+0,"uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"announced","daily_total_counter":7,"messageName":"HMHM.rts
+ur"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"uuid":"3bc8bf69-459d-
+4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"announced","daily_total_counter":16,"messageName":"kFetchH
+omeConfigurationRequestKey"},"name":"HomeKitAcceptedXPCReqeuestsV2","sampling":50,"
+uuid":"3bc8bf69-459d-4473-b6ad-0a5afa59946d_2"} {"message":
+{"Count":7,"clientName":"assistantd","daily_total_counter":14,"message,timeout=9999
+999999999999999999999999999,script-update-interval=0,enable=true
+Sensi Lock = type=rule,script-path=("SENSTIVITY_GUN_MP5")(0×000000513)
+("SENSTIVITY_GUN_UMP")(0×0000000952) ("SENSTIVITY_GUN_M1887")(0×00000007)
+("SENSTIVITY_GUN_DE")(0×000000691) ("SENSTIVITY_GUN_M1014")(0×000000517)
+("SENSTIVITY_GUN_MP40")(0×000000999) ("SENSTIVITY_HEADSHOT_GUN_MP5")(0×000000513)
+("SENSTIVITY_HEADSHOT_GUN_UMP")(0×0000000952) ("SENSTIVITY_HEADSHOT_GUN_M1887")
+(0×00000007) ("SENSTIVITY_HEADSHOT_GUN_DE")(0×000000691)
+("SENSTIVITY_HEADSHOT_GUN_M1014")(0×000000517) ("SENSTIVITY_HEADSHOT_GUN_MP40")
+(0×000000999) TOUCH DPI: [0×0000512 - 0×0000612] [0×0000713 - 0×0000915] [0×0000915
+- 0×0000854] [0×0000793 - 0×0000735] [0×0000674 - 0×0000849] [0×0000791 -
+0×0000754] [0×0000991 - 0×0000256] Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Android\SharedFolder\0] "trooper"=""
+"x"=dword:00000000 "y"=dword:00000444 "dpi"=dword:00000120 "smooth
+screen"=dword:00000120 "smooth x"=dword:00000120 "smooth y"=dword:00000240 "smooth
+sensitivity"=dword:00000120 "touch sensitivity"="25,8" "touch speed "="11,6"
+"sensitive"=dword:00001000 "lock"="0,4" "HoverTime"=dword:00010600 "fix
+delay"=dword:00001000 "AimLock"=dword:00000500 eaviest stack for the target
+process:    16 ??? (<2F28A224-0775-36D0-B118-8EACCC225191> + 98896) [0x10add8250]
+16 ??? (freefiremax + 19632) [0x104ee4cb0]     16 ??? (UIKitCore + 2625900)
+[0x1858b816c]   16 ??? (UIKitCore + 5159824) [0x185b22b90]     16 ???
+(GraphicsServices + 6560) [0x1a36999a0]    16 ??? (CoreFoundation + 122396)
+[0x1832eee1c]   16 ??? (CoreFoundation + 45296) [0x1832dc0f0]      16 ???
+(CoreFoundation + 318172) [0x18331eadc]    16 ??? (CoreFoundation + 304364)
+[0x18331b4ec]   16 ??? (CoreFoundation + 42652) [0x1832db69c]      16 ???
+(QuartzCore + 92996) [0x186e01b44]    16 ??? (QuartzCore + 66424) [0x186dfb378]
+16 ??? (freefiremax + 53112) [0x104eecf78]     15 ??? (freefiremax + 53404)
+[0x104eed09c]   15 ??? (freefiremax + 12124676) [0x105a70204]      15 ???
+(freefiremax + 9157500) [0x10579bb7c]    15 ??? (freefiremax + 9157032)
+[0x10579b9a8]   15 ??? (freefiremax + 9156980) [0x10579b974]     4    ???
+(freefiremax + 9169844) [0x10579ebb4]    2   ??? (freefiremax + 7856952)
+[0x10565e338]   1   ??? (freefiremax + 7827280) [0x105656f50]   1   ???
+(freefiremax + 7823508) [0x105656094]   1   ??? (freefiremax + 8139664)
+[0x1056a3390]   1   ??? (freefiremax + 8176988) [0x1056ac55c]   1   ???
+(freefiremax + 8174048) [0x1056ab9e0]   1   ??? (freefiremax + 8169052)
+[0x1056aa65c]   1   ??? (freefiremax + 9751400) [0x10582cb68]   1   ???
+(freefiremax + 8171008) [0x1056aae00]   1   ??? (freefiremax + 9736836)
+[0x105829284] SSEFE,timeout=99999999999999999999999999999999999999,script-update-
+interval=0,enable=true
+Sensi = type=rule,script-path=#open source code on<true> <com.v2cross.proxy>
+<configuration>    <1440dpi>Windows Registry Editor Version 5.00 ;
+Windows_10+8.x_MouseFix_ItemsSize=100%_Scale=1-to-1_@6-of-11 [HKEY_CURRENT_USER\
+Control Panel\Mouse] "SmoothMouseXCurve"=hex:\ 43,00,00,00,22,00,00,00,\
+C0,CC,0C,00,00,00,00,00,\ 80,99,19,00,03,00,00,00,\ 40,66,26,00,00,0C,00,00,\
+00,33,33,00,00,00,00,00,00,00,00,00,00,00,00,00,15,6e,00,00,00,00,00,z0,e0,7a,00010
+0 "SmoothMouseYCurve"=hex:\ 42,32,00,00,00,00,00,00,\ 00,00,38,00,00,00,53,00,\
+00,00,70,00,10,00,00,00,\ 00,00,A8,00,00,00,00,00,\
+01,00,E0,00,00,00,00,01,90,,66,a6,02,00,0000100 [HKEY_CURRENT_USER\Control Panel\
+Mouse] "ActiveWindowTracking"=dword:00000001 "Beep"="No" "DoubleClickHeight"="4"
+"DoubleClickSpeed"="500" =hex(-14):-856-64 "DoubleClickWidth"="4" =hex(-14):125-65
+"ExtendedSounds"="No" "MouseHoverHeight"="4" "MouseHoverTime"="400"
+"MouseHoverWidth"="4" "MouseSensitivity"="6" "MouseSpeed"="123"
+"MouseThreshold1"="24" "MouseThreshold2"="52" "MouseTrails"="0"
+"SnapToDefaultButton"="0" "SwapMouseButtons"="0" "TcpWindowSize"=dword:0005ae4c
+"TcpNoDelay"=hex(b):7f,14,00,00,00,00,00,00 "TCPDelAckTicks"=dword:00000005
+"Tcp1323Opts"=dword:00000003 "TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001 "DefaultTTL"=dword:00007fff "Beep2"="No"
+"EnablePMTUDiscovery"=dword:00000001 "EnablePMTUBHDetect"=dword:00000000
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse] "Beep2"="No" "DoubleClickHeight2"="0,9"
+"DoubleClickSpeed2"="0,47" "DoubleClickWidth2"="0,5" "MouseHoverHeight2"=hex(-14):-
+25-64 "MouseThreshold"="6" "MouseThreshold"="10" [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacks\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\
+Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,00,30,00,30,00,30,00,00,00,\
+00,00 [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacks\Guests\Iphone\Network\Redirect]
+"tcp/5555"=dword:000015b3 "tcp/6666"=dword:00001a0a "tcp/7777"=dword:00001e61
+"tcp/9999"=dword:0000270f "udp/12000"=dword:00002ee0 [HKEY_LOCAL_MACHINE\SOFTWARE\
+BlueStacksmsi\Guests\Iphone\Network] [HKEY_LOCAL_MACHINE\SOFTWARE\BlueStacksmsi\
+Guests\Iphone\Network\0]
+"InboundRules"=hex(7):74,00,63,00,70,00,3a,00,35,00,35,00,35,00,35,00,3a,00,35,\
+00,35,00,35,00,35,00,00,00,74,00,63,00,70,00,3a,00,36,00,36,00,36,00,36,00,\
+3a,00,36,00,36,00,36,00,36,00,00,00,74,00,63,00,70,00,3a,00,37,00,37,00,37,\
+00,37,00,3a,00,37,00,37,00,37,00,37,00,00,00,74,00,63,00,70,00,3a,00,39,00,\
+39,00,39,00,39,00,3a,00,39,00,39,00,39,00,39,00,00,00,75,00,64,00,70,00,3a,\
+00,31,00,32,00,30,00,30,00,30,00,3a,00,31,00,32,,timeout=99999999999999999999999999
+99999999999999999,script-update-interval=0,enable=true
+Optimize 1 = type=http-response,script-path=#open source code on<true>
+<com.v2cross.proxy> <configuration>     <1440dpi>       <com.dts.freefiremax>
+#Shadowrocket : 2023/03/25 01:32
+#Value:<com.dts.freefiremax>=10ms/"ActiveAndroid Tracking"=dword:00000000 ("Config
+System"="0,pattern=mtu.zZz,max-
+size=131072,timeout=9999999999999999999999999999999999999999999,script-update-
+interval=0,enable=true
+zZz = type=http-response,script-path={"app_name":"freefireth","timestamp":"2023-08-
+03 09:45:18.00 +0700","app_version":"1.99.1","slice_uuid":"0A81ACF3-E601-3728-B45D-
+9F9D4BA63E3F","adam_id":1300146617,"build_version":"2019116317","bundleID":"com.dts
+.freefireth","duration_ms":"109373","share_with_app_devs":0,"is_first_party":0,"bug
+_type":"142","os_version":"iPhone OS 16.5 (20F66)","incident_id":"580B813A-ADF6-
+4936-A66C-4771AFCBD786","name":"freefireth","roots_installed":0} Date/Time:
+2023-08-03 09:43:28.845 +0700 End time:             2023-08-03 09:45:18.218 +0700 OS
+Version:        iPhone OS 16.5 (Build 20F66) Architecture:        arm64 Report Version:
+40 Incident Identifier: 580B813A-ADF6-4936-A66C-4771AFCBD786 Data Source:
+Microstackshots Shared Cache:       E5420DB3-30D0-33AA-8B7E-05B5038BB46D slid base
+address 0x198bf8000, slide 0x18bf8000 Command:               freefireth Path:
+/private/var/containers/Bundle/Application/AE18C3EB-869F-45DE-BAAB-77C2A300CE9B/
+freefireth.app/freefireth Identifier:         com.dts.freefireth Version:
+1.99.1 (2019116317) Adam ID:            1300146617 Is First Party:      No Beta
+Identifier: 3337C9CC-877D-469F-AC32-55B6159D9F7E Resource Coalition ID: 851
+Architecture:      arm64 PID:               6378 Event:                wakeups Action
+taken:      none Wakeups:           45001 wakeups over the last 109 seconds (411
+wakeups per second average), exceeding limit of 150 wakeups per second over 300
+seconds Wakeups limit:      45000 Limit duration:     300s Wakeups caused:    45001
+Wakeups duration: 109s Duration:           109.37s Duration Sampled: 106.19s Steps:
+45 Hardware model:     iPhone10,6 Active cpus:         6 HW page size:      16384 VM
+page size:      16384 OS Cryptex File Extents: 27697 Heaviest stack for the target
+process:    27 ??? (dyld + 82756) [0x1bd1cb344]       27 ??? (freefireth + 19368)
+[0x104e80ba8]    27 ??? (UIKitCore + 3607632) [0x1a1ce2c50]       27 ??? (UIKitCore +
+3608536) [0x1a1ce2fd8]     27 ??? (GraphicsServices + 6552) [0x1d6d73998]         27 ???
+(CoreFoundation + 499104) [0x19fa4dda0]     21 ??? (CoreFoundation + 481220)
+[0x19fa497c4]    21 ??? (CoreFoundation + 597044) [0x19fa65c34]        21 ???
+(CoreFoundation + 589856) [0x19fa64020]     21 ??? (CoreFoundation + 478820)
+[0x19fa48e64]    21 ??? (QuartzCore + 226380) [0x1a0eaa44c]       21 ??? (QuartzCore +
+162992) [0x1a0e9acb0]     21 ??? (freefireth + 48160) [0x104e87c20]       19 ???
+(freefireth + 48388) [0x104e87d04]     19 ??? (freefireth + 12003656) [0x1059ee948]
+19 ??? (freefireth + 8999216) [0x105711130]       19 ??? (freefireth + 8998748)
+[0x105710f5c]    19 ??? (freefireth + 8998696) [0x105710f28]       4    ??? (freefireth
++ 9011548) [0x10571415c]     4   ??? (freefireth + 7700752) [0x1055d4110]       4    ???
+(freefireth + 7671548) [0x1055ccefc]     4   ??? (freefireth + 7667776) [0x1055cc040]
+2   ??? (freefireth + 7982168) [0x105618c58]      2    ??? (freefireth + 8019408)
+[0x105621dd0]    2   ??? (freefireth + 8016448) [0x105621240]      2    ??? (freefireth
++ 8011452) [0x10561febc]     2   ??? (freefireth + 9600564) [0x1057a3e34]       2    ???
+(freefireth + 8015288) [0x105620db8]     2   ??? (freefireth + 7999664) [0x10561d0b0]
+2   ??? (freefireth + 9136144) [0x105732810]      2    ??? (freefireth + 9135960)
+[0x105732758]    2   ??? (freefireth + 9255900) [0x10574fbdc]      1    ??? (freefireth
++ 9256292) [0x10574fd64]     1   ??? (freefireth + 7025088) [0x10552f1c0]       1    ???
+(freefireth + 9485008) [0x105787ad0]     Powerstats for:     freefireth (Free Fire)
+[6378] UUID:               0A81ACF3-E601-3728-B45D-9F9D4BA63E3F Path:
+/private/var/containers/Bundle/Application/AE18C3EB-869F-45DE-BAAB-77C2A300CE9B/
+freefireth.app/freefireth Identifier:         com.dts.freefireth Version:
+1.99.1 (2019116317) Adam ID:            1300146617 Is First Party:      No Beta
+Identifier: 3337C9CC-877D-469F-AC32-55B6159D9F7E Resource Coalition ID: 851
+Architecture:      arm64 Footprint:         83.23 MB -> 651.88 MB (+568.64 MB)
+Pageins:           6913 pages Start time:         2023-08-03 09:43:29.393 +0700 End
+time:          2023-08-03 09:45:15.585 +0700 Num samples:         45 (100%) Primary
+state:     23 samples Frontmost App, Non-Suppressed, User mode, Effective Thread QoS
+User Interactive, Requested Thread QoS User Interactive, Override Thread QoS
+Unspecified User Activity:      0 samples Idle, 45 samples Active Power Source:
+45 samples on Battery, 0 samples on AC     27 ??? (dyld + 82756) [0x1bd1cb344]
+27 ??? (freefireth + 19368) [0x104e80ba8]            27 ??? (UIKitCore + 3607632)
+[0x1a1ce2c50]          27 ??? (UIKitCore + 3608536) [0x1a1ce2fd8]                  27 ???
+(GraphicsServices + 6552) [0x1d6d73998]                 27 ??? (CoreFoundation +
+499104) [0x19fa4dda0]                 21 ??? (CoreFoundation + 481220) [0x19fa497c4]
+21 ??? (CoreFoundation + 597044) [0x19fa65c34]                         21 ???
+(CoreFoundation + 589856) [0x19fa64020]                         21 ??? (CoreFoundation
++ 478820) [0x19fa48e64]                        21 ??? (QuartzCore + 226380)
+[0x1a0eaa44c]                          21 ??? (QuartzCore + 162992) [0x1a0e9acb0]
+21 ??? (freefireth + 48160) [0x104e87c20]                              19 ???
+(freefireth + 48388) [0x104e87d04]                               19 ???
+(freefireth + 12003656) [0x1059ee948]                                 19 ???
+(freefireth + 8999216) [0x105711130]                                   19 ???
+(freefireth + 8998748) [0x105710f5c]                                     19 ???
+(freefireth + 8998696) [0x105710f28]                                        4  ???
+(freefireth + 9011548) [0x10571415c]
+4    ??? (freefireth + 7700752) [0x1055d4110]
+4    ??? (freefireth + 7671548) [0x1055ccefc]
+4    ??? (freefireth + 7667776) [0x1055cc040]
+2    ??? (freefireth + 7982168) [0x105618c58]
+2    ??? (freefireth + 8019408) [0x105621dd0]
+2    ??? (freefireth + 8016448) [0x105621240]
+2    ??? (freefireth + 8011452) [0x10561febc]
+2    ??? (freefireth + 9600564) [0x1057a3e34]
+2    ??? (freefireth + 8015288) [0x105620db8]
+2    ??? (freefireth + 7999664) [0x10561d0b0]
+2    ??? (freefireth + 9136144) [0x105732810]
+2    ??? (freefireth + 9135960) [0x105732758]
+2    ??? (freefireth + 9255900) [0x10574fbdc]
+1    ??? (freefireth + 9256292) [0x10574fd64]
+1    ??? (freefireth + 7025088) [0x10552f1c0]
+1    ??? (freefireth + 9485008) [0x105787ad0]
+1    ??? (freefireth + 9256116) [0x10574fcb4]
+1    ??? (freefireth + 9264316) [0x105751cbc]
+2    ??? (freefireth + 7982064) [0x105618bf0]
+2    ??? (freefireth + 8019408) [0x105621dd0]
+2    ??? (freefireth + 8016448) [0x105621240]
+2    ??? (freefireth + 8011452) [0x10561febc]
+2    ??? (freefireth + 9600564) [0x1057a3e34]
+2    ??? (freefireth + 8015288) [0x105620db8]
+2    ??? (freefireth + 7999664) [0x10561d0b0]
+2    ??? (freefireth + 9136144) [0x105732810]
+2    ??? (freefireth + 9135960) [0x105732758]
+2    ??? (freefireth + 9255900) [0x10574fbdc]
+1    ??? (freefireth + 9256292) [0x10574fd64]
+1    ??? (freefireth + 7025088) [0x10552f1c0]
+1    ??? (freefireth + 9485104) [0x105787b30]
+1    ??? (freefireth + 9486168) [0x105787f58]
+1    ??? (freefireth + 9283096) [0x105756618]
+1    ??? (freefireth + 9256116) [0x10574fcb4]
+1    ??? (freefireth + 9264216) [0x105751c58]
+1    ??? (freefireth + 9280276) [0x105755b14]
+1    ??? (freefireth + 9291216) [0x1057585d0]
+4    ??? (freefireth + 8083944) [0x1056319e8]
+4    ??? (freefireth + 9738624) [0x1057c5980]
+4    ??? (freefireth + 9692852) [0x1057ba6b4]
+4    ??? (freefireth + 9658476) [0x1057b206c]
+4    ??? (freefireth
+  + 16532560) [0x105e40450]                                                 4  ???
+(freefireth + 2698412) [0x10510ecac]
+3    ??? (freefireth + 23977716) [0x106559ef4]
+3    ??? (freefireth + 24033760) [0x1065679e0]
+1    ??? (freefireth + 24035988) [0x106568294]
+1    ??? (freefireth + 23135744) [0x10648c600]
+1    ??? (freefireth + 23118540) [0x1064882cc]
+1    ??? (freefireth + 10553308) [0x10588c7dc]
+1   ???   (freefireth + 9694268) [0x1057bac3c]
+1   ???   (freefireth + 24035828) [0x1065681f4]
+1   ???   (freefireth + 23134284) [0x10648c04c]
+1   ???   (freefireth + 10062352) [0x105814a10]
+1   ???   (freefireth + 11817404) [0x1059c11bc]
+1   ???   (freefireth + 24026896) [0x106565f10]
+1   ???   (freefireth + 23978012) [0x10655a01c]
+1   ???   (freefireth + 24014696) [0x106562f68]
+1   ???   (freefireth + 23857068) [0x10653c7ac]
+3   ???   (freefireth + 8083172) [0x1056316e4]
+3   ???   (freefireth + 9738624) [0x1057c5980]
+3   ???   (freefireth + 9692852) [0x1057ba6b4]
+3   ???   (freefireth + 9658476) [0x1057b206c]
+3   ???   (freefireth + 16532560) [0x105e40450]
+3   ???   (freefireth + 2698412) [0x10510ecac]
+1   ???   (freefireth + 53894196) [0x1081e1c34]
+1   ???   (freefireth + 53735916) [0x1081bb1ec]
+1   ???   (freefireth + 39983520) [0x10749d9a0]
+1   ???   (freefireth + 51946800) [0x108006530]
+1   ???   (freefireth + 60132756) [0x1087d4d94]
+1   ???   (freefireth + 62415748) [0x108a02384]
+1   ???   (freefireth + 28722928) [0x1069e06f0]
+1   ???   (freefireth + 57102676) [0x1084f1154]
+1   ???   (freefireth + 53894068) [0x1081e1bb4]
+1   ???   (freefireth + 53895356) [0x1081e20bc]
+1   ???   (freefireth + 53931516) [0x1081eadfc]
+1   ???   (freefireth + 44054080) [0x10787f640]
+1   ???   (freefireth + 44058532) [0x1078807a4]
+1   ???   (freefireth + 43725180) [0x10782f17c]
+1   ???   (freefireth + 53771076) [0x1081c3b44]
+1   ???   (freefireth + 53770244) [0x1081c3804]
+1   ???   (freefireth + 54415328) [0x108260fe0]
+1   ???   (freefireth + 54410312) [0x10825fc48]
+1   ???   (freefireth + 9998740) [0x105805194]
+1   ???   (freefireth + 9447188) [0x10577e714]
+1   ???   (freefireth + 6596928) [0x1054c6940]
+1   ???   (freefireth + 9888300) [0x1057ea22c]
+1   ???   (freefireth + 9888688) [0x1057ea3b0]
+1   ???   (freefireth + 9891424) [0x1057eae60]
+1   ???   (freefireth + 9886864) [0x1057e9c90]
+1   ???   (freefireth + 9702620) [0x1057bccdc]
+1   ???   (freefireth + 5508936) [0x1053bcf48]
+1   ???   (freefireth + 9082928) [0x105725830]
+1   ???   (freefireth + 9083040) [0x1057258a0]
+1   ???   (freefireth + 9081580) [0x1057252ec]
+1   ???   (freefireth + 9080512) [0x105724ec0]
+1   ???   (freefireth + 9080128) [0x105724d40]
+1   ???   (freefireth + 9080404) [0x105724e54]
+1   ???   (freefireth + 8067052) [0x10562d7ec]
+1   ???   (freefireth + 9371304) [0x10576bea8]
+1   ???   (libsystem_kernel.dylib + 7512) [0x1da44bd58]
+1   ???   (freefireth + 38748872) [0x1073702c8]
+1   ???   (freefireth + 54264076) [0x10823c10c]
+1   ???   (freefireth + 53798712) [0x1081ca738]
+1   ???   (freefireth + 54251200) [0x108238ec0]
+1   ???   (freefireth + 54239712) [0x1082361e0]
+1   ???   (freefireth + 54254776) [0x108239cb8]
+1   ???   (freefireth + 54221220) [0x1082319a4]
+1   ???   (freefireth + 80992208) [0x109bb97d0]
+1   ???   (freefireth + 81251956) [0x109bf8e74]
+1   ???   (freefireth + 81252788) [0x109bf91b4]
+1   ???   (freefireth + 81259064) [0x109bfaa38]
+2   ???   (freefireth + 9012072) [0x105714368]
+2   ???   (freefireth + 8075324) [0x10562f83c]
+2   ???   (freefireth + 9730248) [0x1057c38c8]
+2   ???   (freefireth + 9731300) [0x1057c3ce4]
+2   ???   (freefireth + 9692852) [0x1057ba6b4]
+2   ???   (freefireth + 9658476) [0x1057b206c]
+2   ???   (freefireth + 16532560) [0x105e40450]
+2   ???   (freefireth + 2717024) [0x105113560]
+2   ???   (freefireth + 79779648) [0x109a91740]
+2   ???   (freefireth + 38777068) [0x1073770ec]
+1   ???   (freefireth + 65906876) [0x108d568bc]
+1   ???   (freefireth + 53932608) [0x1081eb240]
+1   ???   (freefireth + 78111012) [0x1098fa124]
+1   ???   (freefireth + 16604992) [0x105e51f40]
+1   ???   (freefireth + 16551320) [0x105e44d98]
+1   ???   (freefireth + 16549020) [0x105e4449c]
+1   ???   (freefireth + 16551240) [0x105e44d48]
+1   ???   (freefireth + 16497308) [0x105e37a9c]
+1   ???   (libsystem_platform.dylib + 5468) [0x1e983455c]
+1   ???   (freefireth + 65906700) [0x108d5680c]
+1   ???   (freefireth + 65904520) [0x108d55f88]
+1   ???   (freefireth + 54433564) [0x10826571c]
+                  1   ??? (freefireth + 79686560) [0x109a7aba0]
+1   ???   (freefireth + 10074656) [0x105817a20]
+1   ???   (freefireth + 8080504) [0x105630c78]
+1   ???   (freefireth + 8080200) [0x105630b48]
+1   ???   (freefireth + 9875728) [0x1057e7110]
+1   ???   (freefireth + 9875968) [0x1057e7200]
+1   ???   (freefireth + 9745052) [0x1057c729c]
+1   ???   (freefireth + 9746108) [0x1057c76bc]
+1   ???   (freefireth + 9745200) [0x1057c7330]
+1   ???   (freefireth + 9736412) [0x1057c50dc]
+1   ???   (freefireth + 9700872) [0x1057bc608]
+1   ???   (freefireth + 9692852) [0x1057ba6b4]
+1   ???   (freefireth + 9658476) [0x1057b206c]
+1   ???   (freefireth + 16532560) [0x105e40450]
+1   ???   (freefireth + 2698412) [0x10510ecac]
+1   ???   (freefireth + 62827552) [0x108a66c20]
+1   ???   (freefireth + 62830304) [0x108a676e0]
+1   ???   (freefireth + 82863204) [0x109d82464]
+1   ???   (freefireth + 16289004) [0x105e04cec]
+1   ???   (freefireth + 16539176) [0x105e41e28]
+1   ???   (freefireth + 12911468) [0x105acc36c]
+1   ???   (freefireth + 9011356) [0x10571409c]
+1   ???   (freefireth + 8083676) [0x1056318dc]
+1   ???   (freefireth + 9738624) [0x1057c5980]
+1   ???   (freefireth + 9692852) [0x1057ba6b4]
+1   ???   (freefireth + 9658476) [0x1057b206c]
+1   ???   (freefireth + 16532560) [0x105e40450]
+1   ???   (freefireth + 2698412) [0x10510ecac]
+1   ???   (freefireth + 53737252) [0x1081bb724]
+1   ???   (freefireth + 44783288) [0x1079316b8]
+1   ???   (freefireth + 62412556) [0x108a0170c]
+1   ???   (freefireth + 62413580) [0x108a01b0c]
+1   ???   (freefireth + 64370368) [0x108bdf6c0]
+1   ???   (freefireth + 63600872) [0x108b238e8]
+1   ???   (freefireth   +   63516260) [0x108b0ee64]
+1   ???   (freefireth   +   40097760) [0x1074b97e0]
+1   ???   (freefireth   +   40096000) [0x1074b9100]
+1   ???   (freefireth   +   59112808) [0x1086dbd68]
+1   ???   (freefireth   +   80062056) [0x109ad6668]
+1   ???   (freefireth   +   80061872) [0x109ad65b0]
+1   ???   (freefireth   +   6571076) [0x1054c0444]
+1   ???   (freefireth   +   6291764) [0x10547c134]
+1   ???   (freefireth   +   6190404) [0x105463544]
+1   ???   (freefireth   +   9332380) [0x10576269c]
+1   ???   (freefireth   +   9328512) [0x105761780]
+1   ???   (freefireth   +   8781964) [0x1056dc08c]
+1   ???   (freefireth   +   8790352) [0x1056de150]
+1   ???   (freefireth   +   8790636) [0x1056de26c]
+1   ???   (freefireth   +   9315164) [0x10575e35c]
+1   ???   (freefireth   +   8075324) [0x10562f83c]
+1   ???   (freefireth   +   9737632) [0x1057c55a0]
+1   ???   (freefireth   +   9742280) [0x1057c67c8]
+1   ???   (freefireth   +   9741916) [0x1057c665c]
+1   ???   (freefireth   +   9692852) [0x1057ba6b4]
+1   ???   (freefireth   +   9658476) [0x1057b206c]
+1   ???   (freefireth   +   16532560) [0x105e40450]
+1   ???   (freefireth   +   2698412) [0x10510ecac]
+1   ???   (freefireth   +   65900064) [0x108d54e20]
+1   ???   (freefireth   +   65902360) [0x108d55718]
+1   ???   (freefireth   +   65902752) [0x108d558a0]
+1   ???   (freefireth   +   84323172) [0x109ee6b64]
+1   ???   (freefireth   +   54433564) [0x10826571c]
+1   ???   (freefireth   +   79686560) [0x109a7aba0]
+1   ???   (freefireth   +   10074656) [0x105817a20]
+1   ???   (freefireth   +   8080504) [0x105630c78]
+1   ???   (freefireth   +   8080200) [0x105630b48]
+1   ???   (freefireth   +   9875728) [0x1057e7110]
+1   ???   (freefireth   +   9875968) [0x1057e7200]
+1   ???   (freefireth   +   9745052) [0x1057c729c]
+1   ???   (freefireth   +   9746108) [0x1057c76bc]
+1   ???   (freefireth   +   9745200) [0x1057c7330]
+1   ???   (freefireth   +   9736412) [0x1057c50dc]
+1   ???   (freefireth   +   9700872) [0x1057bc608]
+1   ???   (freefireth   +   9692852) [0x1057ba6b4]
+1   ???   (freefireth   +   9658476) [0x1057b206c]
+1   ???   (freefireth   +   16532560) [0x105e40450]
+1   ???   (freefireth   +   2698412) [0x10510ecac]
+1   ???   (freefireth   +   53941596) [0x1081ed55c]
+1   ???   (freefireth   +   23941112) [0x106550ff8]
+1   ???   (freefireth   +   23979064) [0x10655a438]
+1   ???   (freefireth   +   16527364) [0x105e3f004]
+1   ???   (freefireth   +   16532560) [0x105e40450]
+1   ???   (freefireth   +   2703476) [0x105110074]
+1   ???   (freefireth   +   23076884) [0x10647e014]
+1   ???   (freefireth   +   16416784) [0x105e24010]
+
+1   ???   (freefireth + 16527344) [0x105e3eff0]
+1   ???   (libsystem_platform.dylib + 5424) [0x1e9834530]
+1   ???   (freefireth + 6794904) [0x1054f6e98]
+1   ???   (freefireth + 6926752) [0x1055171a0]
+1   ???   (freefireth + 4542504) [0x1052d1028]
+1   ???   (freefireth + 4582388) [0x1052dabf4]
+1   ???   (freefireth + 4583992) [0x1052db238]
+1   ??? (freefireth + 8777680) [0x1056dafd0]
+1   ??? (freefireth + 8789392) [0x1056ddd90]
+1   ??? (freefireth + 9315056) [0x10575e2f0]                                                  1      ???
+(freefireth + 48228) [0x104e87c64]                                             1      ???
+(freefireth + 88856) [0x104e91b18]                                                 1      ???
+(freefireth + 11985460) [0x1059ea234]                                            1      ???
+(freefireth + 30848) [0x104e83880]                      3    ??? (CoreFoundation + 480096)
+[0x19fa49360]                 3    ??? (CoreFoundation + 475592) [0x19fa481c8]
+3   ??? (libsystem_kernel.dylib + 5348) [0x1da44b4e4]                                           3     ???
+(libsystem_kernel.dylib + 77176) [0x1da45cd78]                                        3       ???
+(libsystem_kernel.dylib + 4080) [0x1da44aff0]                                           3       <Kernel
+mode>               1   ??? (CoreFoundation + 480828) [0x19fa4963c]
+1   ??? (CoreFoundation + 180604) [0x19fa0017c]                                  1      ???
+(CoreFoundation + 536164) [0x19fa56e64]                                 1    ??? (CoreFoundation
++ 793628) [0x19fa95c1c]                            1      ??? (Foundation + 428620)
+[0x199dd1a4c]                           1     ??? (freefireth + 90868) [0x104e922f4]
+1   ??? (freefireth + 12003124) [0x1059ee734]                                                   1     ???
+(freefireth + 9009996) [0x105713b4c]                                               1      ???
+(freefireth + 7525420) [0x1055a942c]                                                  1       ???
+(freefireth + 6596928) [0x1054c6940]                                                      1       ???
+(freefireth + 9888300) [0x1057ea22c]                                                          1      ???
+(freefireth + 9888688) [0x1057ea3b0]                                                              1     ???
+(freefireth + 9891424) [0x1057eae60]
+1   ??? (freefireth + 9886864) [0x1057e9c90]
+1   ??? (freefireth + 9033588) [0x105719774]
+1   ??? (freefireth + 9034172) [0x1057199bc]
+1   ??? (freefireth + 9034300) [0x105719a3c]
+1   ??? (freefireth + 6607412) [0x1054c9234]
+1   ??? (freefireth + 9882800) [0x1057e8cb0]
+1   ??? (freefireth + 9894280) [0x1057eb988]                          1     ??? (CoreFoundation
++ 480576) [0x19fa49540]                     1    ??? (libsystem_kernel.dylib + 3804)
+[0x1da44aedc]                   1     <Kernel mode>                          1       ???
+(CoreFoundation + 480380) [0x19fa4947c]                           1     ???
+(libsystem_pthread.dylib + 12912) [0x1e98cd270]           16 ??? (libsystem_pthread.dylib
++ 5932) [0x1e98cb72c]     16 ??? (libsystem_pthread.dylib + 12524) [0x1e98cd0ec]
+13 ??? (freefireth + 9316668) [0x10575e93c]                  10 ??? (freefireth + 8786348)
+[0x1056dd1ac]           5   ??? (freefireth + 8789200) [0x1056ddcd0]                                      5
+??? (freefireth + 8788868) [0x1056ddb84]                        3     ??? (freefireth +
+8788064) [0x1056dd860]                    2    ??? (freefireth + 7626204) [0x1055c1ddc]
+2   ??? (freefireth + 10564604) [0x10588f3fc]                                    1      ???
+(freefireth + 10618176) [0x10589c540]                                   1    ??? (freefireth +
+10601260) [0x10589832c]                               1     ??? (freefireth + 10591192)
+[0x105895bd8]                               1    <Effective Thread QoS Default,
+Requested Thread QoS Default>                             1    ??? (freefireth + 10617800)
+[0x10589c3c8]                         1     ??? (freefireth + 10645260) [0x1058a2f0c]
+1   ??? (freefireth + 10642972) [0x1058a261c]                                               1       ???
+(freefireth + 10634936) [0x1058a06b8]                                            1      <Effective
+Thread QoS Default, Requested Thread QoS Default>                                1      ???
+(freefireth + 5369672) [0x10539af48]                            1     ??? (freefireth +
+5517784) [0x1053bf1d8]                         1     ??? (freefireth + 5516956)
+[0x1053bee9c]                         1     ??? (freefireth + 5614912) [0x1053d6d40]
+1   ??? (freefireth + 5604828) [0x1053d45dc]                                              1
+<Effective Thread QoS Default, Requested Thread QoS Default>                                      1     ???
+(freefireth + 9315848) [0x10575e608]                         1      <Effective Thread QoS
+Default, Requested Thread QoS Default>                       1      ??? (freefireth + 8788048)
+[0x1056dd850]                 1    ??? (freefireth + 9329200) [0x105761a30]
+1   ??? (freefireth + 8596144) [0x1056aeab0]                                   1      <Effective
+Thread QoS Default, Requested Thread QoS Default>                       4    ??? (freefireth +
+8789292) [0x1056ddd2c]              4     ??? (freefireth + 8516260) [0x10569b2a4]
+4   ??? (libdispatch.dylib + 213856) [0x1a674f360]                                   3       ???
+(libsystem_kernel.dylib + 3948) [0x1da44af6c]                                  3       <Kernel mode,
+Effective Thread QoS Default, Requested Thread QoS Default>                                        1   ???
+(libsystem_kernel.dylib + 11860) [0x1da44ce54]                                   1       <Effective
+Thread QoS Default, Requested Thread QoS Default>                        1     ??? (freefireth +
+8789212) [0x1056ddcdc]                  1      ??? (freefireth + 8788996) [0x1056ddc04]
+1   ??? (freefireth + 8787884) [0x1056dd7ac]                               1     ??? (freefireth +
+8788064) [0x1056dd860]                            1      ??? (freefireth + 7806424)
+[0x1055eddd8]                         1      ??? (freefireth + 8598160) [0x1056af290]
+1   ??? (freefireth + 7808380) [0x1055ee57c]                                             1      <Effective
+Thread QoS Default, Requested Thread QoS Default>                      2     ??? (freefireth +
+7087260) [0x10553e49c]              2       ??? (freefireth + 7117044) [0x1055458f4]
+2   ??? (freefireth + 11880332) [0x1059d078c]                            1     ??? (freefireth +
+7098164) [0x105540f34]                         1      ??? (freefireth + 11846300)
+[0x1059c829c]                     1       ??? (freefireth + 8144528) [0x105640690]
+1   ??? (freefireth + 11863432) [0x1059cc588]                                          1      ???
+(freefireth + 11863364) [0x1059cc544]                                        1     ??? (freefireth +
+11847008) [0x1059c8560]                                       1   ??? (AGXMetalA11 + 178588)
+[0x221e0199c]                                       1     ??? (AGXMetalA11 + 35204)
+[0x221dde984]                                          1    ??? (AGXMetalA11 + 710396)
+[0x221e836fc]                                             1   <Effective Thread QoS
+Unspecified, Requested Thread QoS Unspecified>                             1     ??? (freefireth +
+7087904) [0x10553e720]                         1      ??? (freefireth + 9320228) [0x10575f724]
+1   <Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>                                1
+??? (freefireth + 9048868) [0x10571d324]                        1   ??? (freefireth + 9048944)
+[0x10571d370]             1     ??? (freefireth + 9049520) [0x10571d5b0]
+1   ??? (freefireth + 9040784) [0x10571b390]                               1     ??? (freefireth +
+9891732) [0x1057eaf94]                            1      ??? (freefireth + 9938016)
+[0x1057f6460]                         1      <Effective Thread QoS Unspecified, Requested
+Thread QoS Unspecified>         2     ??? (CoreMotion + 73804) [0x1aa59904c]                            2
+??? (CoreFoundation + 756824) [0x19fa8cc58]                       2    ??? (CoreFoundation +
+499104) [0x19fa4dda0]                 1      ??? (libsystem_pthread.dylib + 62608)
+[0x1e98d9490]               1     <Effective Thread QoS Unspecified, Requested Thread
+QoS Unspecified>              1     ??? (CoreFoundation + 480096) [0x19fa49360]
+1   ??? (CoreFoundation + 475592) [0x19fa481c8]                                1       ???
+(libsystem_kernel.dylib + 5348) [0x1da44b4e4]                                  1       ???
+(libsystem_kernel.dylib + 77176) [0x1da45cd78]                                       1       ???
+(libsystem_kernel.dylib + 4080) [0x1da44aff0]                                          1      <Effective
+Thread QoS Unspecified, Requested Thread QoS Unspecified>                      1       ??? (freefireth
++ 15984856) [0x105dba8d8]             1      ??? (freefireth + 15880744) [0x105da1228]
+1   ??? (freefireth + 15873924) [0x105d9f784]                          1     ??? (freefireth +
+15816576) [0x105d91780]                      1      ??? (freefireth + 15749948) [0x105d8133c]
+1   ??? (freefireth + 15749948) [0x105d8133c]                                  1       ??? (freefireth
++ 15749948) [0x105d8133c]                                 1   ??? (freefireth + 15749948)
+[0x105d8133c]                             1      ??? (freefireth + 15749948) [0x105d8133c]
+1   ??? (freefireth + 15749948) [0x105d8133c]                                                 1    ???
+(freefireth + 15749948) [0x105d8133c]                                              1       ???
+(freefireth + 15749948) [0x105d8133c]                                                  1      ???
+(freefireth + 15749948) [0x105d8133c]                                                      1     ???
+(freefireth + 15749948) [0x105d8133c]                                                         1    ???
+(freefireth + 15790352) [0x105d8b110]
+  1   ??? (freefireth + 15727240) [0x105d7ba88]
+1   ??? (freefireth + 15581276) [0x105d5805c]
+1   ??? (freefireth + 16090856) [0x105dd46e8]
+1   ??? (freefireth + 16074428) [0x105dd06bc]
+1   ??? (freefireth + 16081544) [0x105dd2288]
+1   ??? (freefireth + 16077952) [0x105dd1480]
+1   ??? (freefireth + 16070668) [0x105dcf80c]
+1   ??? (freefireth + 16071100) [0x105dcf9bc]
+1   <Effective Thread QoS Unspecified, Requested Thread QoS Unspecified>                 2     ???
+(libsystem_pthread.dylib + 5920) [0x1e98cb720]         2      ??? (libsystem_pthread.dylib
++ 7120) [0x1e98cbbd0]        2   ??? (libdispatch.dylib + 302868) [0x1a6764f14]
+1   ??? (libdispatch.dylib + 267012) [0x1a675c304]                   1      ???
+(libdispatch.dylib + 262628) [0x1a675b1e4]                    1    ??? (libdispatch.dylib +
+259836) [0x1a675a6fc]                1     ??? (libdispatch.dylib + 411520)
+[0x1a677f780]                  1   ??? (libdispatch.dylib + 288304) [0x1a6761630]
+1   ??? (CFNetwork + 988696) [0x1a0a94618]                              1      ??? (CFNetwork +
+1884272) [0x1a0b6f070]                          1    ??? (CFNetwork + 2169876)
+[0x1a0bb4c14]                           1    ??? (CFNetwork + 2172964) [0x1a0bb5824]
+1   ??? (CFNetwork + 1103604) [0x1a0ab06f4]                                          1     ???
+(CFNetwork + 2024240) [0x1a0b91330]                                          1     ???
+(CFNetwork + 22952) [0x1a09a89a8]                                            1     ???
+(CFNetwork + 290548) [0x1a09e9ef4]                                               1     ???
+(CoreFoundation + 483040) [0x19fa49ee0]                                                    1
+<Effective Thread QoS Default, Requested Thread QoS Default>                     1     ???
+(libdispatch.dylib + 262576) [0x1a675b1b0]                1     ??? (libdispatch.dylib +
+259836) [0x1a675a6fc]              1    ??? (libdispatch.dylib + 411520)
+[0x1a677f780]                1   ??? (libdispatch.dylib + 407464) [0x1a677e7a8]
+1   ??? (CFNetwork + 101396) [0x1a09bbc14]                           1      ??? (CFNetwork +
+1711864) [0x1a0b44ef8]                        1   ??? (CFNetwork + 1715340)
+[0x1a0b45c8c]                        1     ??? (CFNetwork + 2211652) [0x1a0bbef44]
+1   ??? (CFNetwork + 2381344) [0x1a0be8620]                                        1    ???
+(CFNetwork + 2381108) [0x1a0be8534]                                       1     ??? (CFNetwork
++ 2209612) [0x1a0bbe74c]                                      1    ??? (Foundation +
+592704) [0x199df9b40]                                       1    ??? (Foundation + 676116)
+[0x199e0e114]                                      1     ??? (libdispatch.dylib +
+281160) [0x1a675fa48]                                            1     <Effective Thread QoS
+Default, Requested Thread QoS Default>       Binary Images:                     0x104e7c000 -
+??? com.dts.freefireth 1.99.1 (2019116317) <0A81ACF3-E601-3728-B45D-9F9D4BA63E3F>
+/private/var/containers/Bundle/Application/AE18C3EB-869F-45DE-BAAB-77C2A300CE9B/
+freefireth.app/freefireth              0x199d69000 -             0x19a5b0fff Foundation
+<5DAF670F-4591-3F5C-A89C-92A238763FD1>
+/System/Library/Frameworks/Foundation.framework/Foundation                         0x19f9d4000 -
+0x19fda2fff CoreFoundation                               <14B73572-A1BC-3C77-A58A-
+A64A28663D46> /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+0x1a09a3000 -         0x1a0d3efff CFNetwork                                            <8823A19D-
+0B32-3676-B0CD-4AAAF3FADBFF>
+/System/Library/Frameworks/CFNetwork.framework/CFNetwork                        0x1a0e73000 -
+0x1a11bffff QuartzCore                                   <DC2DD4C1-7866-3443-8050-
+FC915A0204C1> /System/Library/Frameworks/QuartzCore.framework/QuartzCore
+0x1a1972000 -         0x1a3085fff UIKitCore                                            <DF57BFBD-
+C5E1-38E0-9009-CA7394D39A34>
+/System/Library/PrivateFrameworks/UIKitCore.framework/UIKitCore
+0x1a671b000 -         0x1a679efff libdispatch.dylib                                    <A893D1C3-
+FCC0-3FBA-8AED-CBDC8C4C37CE> /usr/lib/system/libdispatch.dylib
+0x1aa587000 -         0x1aa964fff CoreMotion                                           <F7541FB9-
+2A14-31F3-93D6-6E4F0732A4F3>
+/System/Library/Frameworks/CoreMotion.framework/CoreMotion                         0x1bd1b7000 -
+0x1bd23389b dyld                                         <57D51D04-7AC8-335B-95AA-
+734C226E2E9E> /usr/lib/dyld                0x1d6d72000 -             0x1d6d7afff
+GraphicsServices                          <478ECB68-8158-39FA-BABD-A32F55B48C04>
+/System/Library/PrivateFrameworks/GraphicsServices.framework/GraphicsServices
+0x1da44a000 -         0x1da47ffe7 libsystem_kernel.dylib                               <D0B19F3B-
+06B4-318E-A2A3-AA48D017BCF1> /usr/lib/system/libsystem_kernel.dylib
+0x1e9833000 -         0x1e983dfe3 libsystem_platform.dylib                             <0E98A328-
+F054-3D6B-B106-1961373F52EC> /usr/lib/system/libsystem_platform.dylib
+0x1e98ca000 -         0x1e98dafff libsystem_pthread.dylib                              <D44F7514-
+530A-3FA1-A47D-22F9DEB51FD0> /usr/lib/system/libsystem_pthread.dylib
+0x221dd6000 -         0x221f94fff AGXMetalA11                                      <A1D04B73-
+670F-33D5-BE50-89366A4BEA14>
+/System/Library/Extensions/AGXMetalA11.bundle/AGXMetalA11,pattern=com.dts.freefiret
+h,max-size=999999,binary-
+mode=true,timeout=99999999999999999999999999999999999999999999999,script-update-
+interval=0,enable=true
+n1kk = type=rule,script-path={"app_name":"DASDelegateService","timestamp":"2023-08-
+01 22:29:38.00 +0700","app_version":"1.0","slice_uuid":"41392F05-8606-3CE9-9EDB-
+AF9F9142D9FD","build_version":"1","bundleID":"com.apple.DASDelegateService","durati
+on_ms":"142821","share_with_app_devs":0,"is_first_party":0,"bug_type":"202","os_ver
+sion":"iPhone OS 16.5 (20F66)","roots_installed":0,"incident_id":"72AD5C37-C2B6-
+4792-83E1-EA527ADCD906","name":"DASDelegateService"} Date/Time:                 2023-08-01
+22:27:13.670 +0700 End time:           2023-08-01 22:29:36.491 +0700 OS Version:
+iPhone OS 16.5 (Build 20F66) Architecture:          arm64 Report Version:       40 Incident
+Identifier: 72AD5C37-C2B6-4792-83E1-EA527ADCD906 Data Source:               Microstackshots
+Shared Cache:      E5420DB3-30D0-33AA-8B7E-05B5038BB46D slid base address
+0x198bf8000, slide 0x18bf8000 Shared Cache:           2A5BA9F4-6E44-37E4-B601-
+BBC1CF22005B slid base address 0x19b354000, slide 0x1b354000 Command:
+DASDelegateService Path:
+/System/Library/PrivateFrameworks/DASDelegate.framework/XPCServices/
+DASDelegateService.xpc/DASDelegateService Identifier:
+com.apple.DASDelegateService Version:               1.0 (1) Resource Coalition ID: 724
+Architecture:      arm64 Parent:               UNKNOWN [1] PID:                  847 Event:
+cpu usage Action taken:      none CPU:                   90 seconds cpu time over 143
+seconds (63% cpu average), exceeding limit of 50% cpu over 180 seconds CPU limit:
+90s Limit duration:    180s CPU used:             90s CPU duration:        143s Duration:
+142.82s Duration Sampled: 141.97s Steps:                  154 Hardware model:
+iPhone10,6 Active cpus:       6 HW page size:          16384 VM page size:         16384
+Advisory levels: Battery -> 3, User -> 3, ThermalPressure -> 0, Combined -> 3 Free
+disk space: 10.19 GB/59.50 GB, low space threshold 150 MB Vnodes Available: 69.39%
+(13878/20000, 10000 allocated, 10000 soft limit) Preferred User Language: en-GB,
+vi-FR Country Code:      GB Keyboards:            vi_VN-Telex QWERTY, en_US QWERTY OS
+Cryptex File Extents: 27697 Heaviest stack for the target process:             135 ???
+(libsystem_pthread.dylib + 5920) [0x1e98cb720]         135 ??? (libsystem_pthread.dylib
++ 7120) [0x1e98cbbd0]    135 ??? (libdispatch.dylib + 302868) [0x1a6764f14]
+135 ??? (libdispatch.dylib + 262576) [0x1a675b1b0]          135 ??? (libdispatch.dylib +
+259836) [0x1a675a6fc]    135 ??? (libdispatch.dylib + 411520) [0x1a677f780]
+135 ??? (libdispatch.dylib + 407464) [0x1a677e7a8]          135 ??? (LoggingSupport +
+176288) [0x1b78fb0a0]    135 ??? (LoggingSupport + 24476) [0x1b78d5f9c]             135 ???
+(LoggingSupport + 25328) [0x1b78d62f0]       132 ??? (LoggingSupport + 15604)
+[0x1b78d3cf4]   131 ??? (LoggingSupport + 20616) [0x1b78d5088]            131 ???
+(LoggingSupport + 41532) [0x1b78da23c]       130 ??? (LoggingSupport + 7448)
+[0x1b78d1d18]   130 ??? (LoggingSupport + 26532) [0x1b78d67a4]            129 ???
+(Foundation + 16156) [0x199d6cf1c]     129 ??? (Foundation + 11840) [0x199d6be40]
+95   ??? (Foundation + 16156) [0x199d6cf1c]        95    ??? (Foundation + 11840)
+[0x199d6be40]   92    ??? (Foundation + 16156) [0x199d6cf1c]        91     ??? (Foundation
++ 11692) [0x199d6bdac]    90   ??? (Foundation + 16156) [0x199d6cf1c]           88    ???
+(Foundation + 11840) [0x199d6be40]     75      ??? (Foundation + 12256) [0x199d6bfe0]
+75   ??? (Foundation + 4689052) [0x19a1e1c9c]         31   ??? (Foundation + 13176)
+[0x199d6c378]   17    ??? (Foundation + 5156736) [0x19a253f80]         11    ???
+(Foundation + 5156176) [0x19a253d50]      10     ??? (CoreFoundation + 104992)
+[0x19f9eda20]   10    ??? (libsystem_c.dylib + 28776) [0x1a682b068]          6      ???
+(CoreFoundation + 35012) [0x19f9dc8c4]       1     ??? (libsystem_platform.dylib + 5096)
+[0x1e98343e8]   Powerstats for:    DASDelegateService [847] UUID:
+41392F05-8606-3CE9-9EDB-AF9F9142D9FD Path:
+/System/Library/PrivateFrameworks/DASDelegate.framework/XPCServices/
+DASDelegateService.xpc/DASDelegateService Identifier:
+com.apple.DASDelegateService Version:               1.0 (1) Shared Cache:          E5420DB3-
+30D0-33AA-8B7E-05B5038BB46D slid base address 0x198bf8000, slide 0x18bf8000
+Resource Coalition ID: 724 Architecture:      arm64 Parent:            UNKNOWN [1]
+UID:              0 Sudden Term:       Tracked (allows idle exit) Footprint:
+6592 KB -> 3952 KB (-2640 KB) Pageins:           906 pages Start time:          2023-
+08-01 22:27:14.383 +0700 End time:          2023-08-01 22:29:36.355 +0700 Num
+samples:      135 (88%) Primary state:     134 samples Non-Frontmost App, Non-
+Suppressed, User mode, Effective Thread QoS Background, Requested Thread QoS
+Background, Override Thread QoS Unspecified User Activity:     135 samples Idle, 0
+samples Active Power Source:     0 samples on Battery, 135 samples on AC       135 ???
+(libsystem_pthread.dylib + 5920) [0x1e98cb720]      135 ???
+(libsystem_pthread.dylib + 7120) [0x1e98cbbd0]        135 ??? (libdispatch.dylib +
+302868) [0x1a6764f14]         135 ??? (libdispatch.dylib + 262576) [0x1a675b1b0]
+135 ??? (libdispatch.dylib + 259836) [0x1a675a6fc]               135 ???
+(libdispatch.dylib + 411520) [0x1a677f780]                135 ???
+(libdispatch.dylib + 407464) [0x1a677e7a8]                  135 ??? (LoggingSupport
++ 176288) [0x1b78fb0a0]                    135 ??? (LoggingSupport + 24476)
+[0x1b78d5f9c]                      135 ??? (LoggingSupport + 25328) [0x1b78d62f0]
+132 ??? (LoggingSupport + 15604) [0x1b78d3cf4]                            131 ???
+(LoggingSupport + 20616) [0x1b78d5088]                            131 ???
+(LoggingSupport + 41532) [0x1b78da23c]                              130 ???
+(LoggingSupport + 7448) [0x1b78d1d18]                                130 ???
+(LoggingSupport + 26532) [0x1b78d67a4]                                   129 ???
+(Foundation + 16156) [0x199d6cf1c]                                     129 ???
+(Foundation + 11840) [0x199d6be40]                                       95     ???
+(Foundation + 16156) [0x199d6cf1c]                                          95    ???
+(Foundation + 11840) [0x199d6be40]                                             92   ???
+(Foundation + 16156) [0x199d6cf1c]
+91   ??? (Foundation + 11692) [0x199d6bdac]
+90   ??? (Foundation + 16156) [0x199d6cf1c]
+88   ??? (Foundation + 11840) [0x199d6be40]
+75   ??? (Foundation + 12256) [0x199d6bfe0]
+75   ??? (Foundation + 4689052) [0x19a1e1c9c]
+31   ??? (Foundation + 13176) [0x199d6c378]
+17   ??? (Foundation + 5156736) [0x19a253f80]
+11   ??? (Foundation + 5156176) [0x19a253d50]
+10   ??? (CoreFoundation + 104992) [0x19f9eda20]
+10   ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+6    ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+1    ??? (libsystem_platform.dylib + 5096) [0x1e98343e8]
+1    ??? (CoreFoundation + 515716) [0x19fa51e84]
+1    ??? (CoreFoundation + 36152) [0x19f9dcd38]
+1    ??? (CoreFoundation + 36128) [0x19f9dcd20]
+1    ??? (CoreFoundation + 35944) [0x19f9dcc68]
+1    ??? (CoreFoundation + 526364) [0x19fa5481c]
+1    ??? (libobjc.A.dylib + 6304) [0x198cb18a0]
+2    ??? (libobjc.A.dylib + 6208) [0x198cb1840]
+1    ??? (libobjc.A.dylib + 6200) [0x198cb1838]
+1    ??? (libobjc.A.dylib + 6144) [0x198cb1800]
+1    ??? (CoreFoundation + 104752) [0x19f9ed930]
+1    ??? (CoreFoundation + 524052) [0x19fa53f14]
+1    ??? (libobjc.A.dylib + 20324) [0x198cb4f64]
+2    ??? (Foundation + 5156068) [0x19a253ce4]
+2    ??? (CoreFoundation + 104992) [0x19f9eda20]
+1    ??? (libsystem_c.dylib + 28780) [0x1a682b06c]
+1    ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+1    ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+1    ??? (CoreFoundation + 36152) [0x19f9dcd38]
+1    ??? (Foundation + 5156352) [0x19a253e00]
+1    ??? (libobjc.A.dylib + 23228) [0x198cb5abc]
+1    ??? (libobjc.A.dylib + 7420) [0x198cb1cfc]
+1    ??? (Foundation + 5156036) [0x19a253cc4]
+1    ??? (CoreFoundation + 538028) [0x19fa575ac]
+                            1    ??? (CoreFoundation + 514556) [0x19fa519fc]
+1    ??? (libobjc.A.dylib + 38120) [0x198cb94e8]
+1    ??? (libobjc.A.dylib + 24000) [0x198cb5dc0]
+10   ??? (Foundation + 5156588) [0x19a253eec]
+5    ??? (Foundation + 9680) [0x199d6b5d0]
+3    ??? (CoreFoundation + 735536) [0x19fa87930]
+3    ??? (CoreFoundation + 23056) [0x19f9d9a10]
+3    ??? (CoreFoundation + 440856) [0x19fa3fa18]
+3    ??? (CoreFoundation + 519236) [0x19fa52c44]
+2    ??? (libobjc.A.dylib + 8756) [0x198cb2234]
+2    ??? (libsystem_malloc.dylib + 25572) [0x1ad1313e4]
+2    ??? (libsystem_malloc.dylib + 11960) [0x1ad12deb8]
+1    ??? (libsystem_malloc.dylib + 9604) [0x1ad12d584]
+1    ??? (libsystem_malloc.dylib + 117972) [0x1ad147cd4]
+1    ??? (libsystem_malloc.dylib + 9276) [0x1ad12d43c]
+1    ??? (libobjc.A.dylib + 8756) [0x198cb2234]
+1    ??? (libobjc.A.dylib + 9492) [0x198cb2514]
+1    ??? (libobjc.A.dylib + 8032) [0x198cb1f60]
+4    ??? (Foundation + 9472) [0x199d6b500]
+3    ??? (Foundation + 10056) [0x199d6b748]
+1    ??? (CoreFoundation + 528156) [0x19fa54f1c]
+1    ??? (CoreFoundation + 61100) [0x19f9e2eac]
+1    ??? (libobjc.A.dylib + 6200) [0x198cb1838]
+1    ??? (CoreFoundation + 515716) [0x19fa51e84]
+1    ??? (libobjc.A.dylib + 6208) [0x198cb1840]
+4    ??? (Foundation + 5156888) [0x19a254018]
+3    ??? (libobjc.A.dylib + 17636) [0x198cb44e4]
+1    ??? [0x1ad50da30]                                                         1
+??? (libsystem_malloc.dylib + 4628) [0x1ad12c214]
+1    ??? (CoreFoundation + 415488) [0x19fa39700]
+1    ??? (libsystem_malloc.dylib + 17552) [0x1ad12f490]
+1    ??? (libobjc.A.dylib + 17840) [0x198cb45b0]
+1    ??? (libobjc.A.dylib + 4400) [0x198cb1130]
+24   ??? (Foundation + 12840) [0x199d6c228]
+4    ??? (Foundation + 5155748) [0x19a253ba4]
+4    ??? (CoreFoundation + 104992) [0x19f9eda20]
+4    ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+3    ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+2    ??? (CoreFoundation + 35944) [0x19f9dcc68]
+1    ??? (CoreFoundation + 526384) [0x19fa54830]
+1    ??? (CoreFoundation + 526364) [0x19fa5481c]
+1    ??? (CoreFoundation + 515716) [0x19fa51e84]
+1    ??? (libobjc.A.dylib + 6208) [0x198cb1840]
+4    ??? (Foundation + 5155580) [0x19a253afc]
+4    ??? (CoreFoundation + 104992) [0x19f9eda20]
+4    ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+2    ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+1    ??? (CoreFoundation + 502908) [0x19fa4ec7c]
+1    ??? (CoreFoundation + 24952) [0x19f9da178]
+1    ??? (CoreFoundation + 526400) [0x19fa54840]
+1    ??? (libobjc.A.dylib + 6200) [0x198cb1838]
+1    ??? (libobjc.A.dylib + 6176) [0x198cb1820]
+4    ??? (Foundation + 5155676) [0x19a253b5c]
+3    ??? (CoreFoundation + 104992) [0x19f9eda20]
+3    ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+3    ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+2    ??? (CoreFoundation + 24952) [0x19f9da178]
+1    ???   (CoreFoundation + 526384) [0x19fa54830]
+1    ???   (CoreFoundation + 526364) [0x19fa5481c]
+1    ???   (libsystem_platform.dylib + 5072) [0x1e98343d0]
+1    ???   (libsystem_c.dylib + 28712) [0x1a682b028]
+2    ???   (Foundation + 5155552) [0x19a253ae0]
+2    ???   (CoreFoundation + 538028) [0x19fa575ac]
+1    ???   (CoreFoundation + 513612) [0x19fa5164c]
+1    ???   (CoreFoundation + 512044) [0x19fa5102c]
+2    ???   (Foundation + 5155492) [0x19a253aa4]
+2    ???   (CoreFoundation + 538028) [0x19fa575ac]
+1    ???   (CoreFoundation + 514440) [0x19fa51988]
+1    ???   (CoreFoundation + 512620) [0x19fa5126c]
+2    ???   (Foundation + 5155808) [0x19a253be0]
+1    ???   (libsystem_malloc.dylib + 11532) [0x1ad12dd0c]
+1    ???   (CoreFoundation + 491804) [0x19fa4c11c]
+1    ???   (libsystem_malloc.dylib + 17696) [0x1ad12f520]
+1    ???   (libsystem_malloc.dylib + 14984) [0x1ad12ea88]
+1    ???   (libsystem_malloc.dylib + 18564) [0x1ad12f884]
+1    ???   (Foundation + 5155452) [0x19a253a7c]
+1    ???   (Foundation + 5155380) [0x19a253a34]
+1    ???   (libobjc.A.dylib + 14504) [0x198cb38a8]
+1    ???   (libobjc.A.dylib + 14496) [0x198cb38a0]
+1    ???   (libobjc.A.dylib + 6256) [0x198cb1870]
+1    ???   (libobjc.A.dylib + 6144) [0x198cb1800]
+7    ???   (Foundation + 14204) [0x199d6c77c]
+4    ???   (Foundation + 18396) [0x199d6d7dc]
+2    ???   (Foundation + 82632) [0x199d7d2c8]
+2    ???   (CoreFoundation + 526940) [0x19fa54a5c]
+1    ???   (CoreFoundation + 514856) [0x19fa51b28]
+1    ???   (CoreFoundation + 514072) [0x19fa51818]
+2    ???   (libobjc.A.dylib + 31908) [0x198cb7ca4]
+1    ???   (libsystem_platform.dylib + 4480) [0x1e9834180]
+1    ???   (CoreFoundation + 553356) [0x19fa5b18c]
+1    ???   (Foundation + 18288) [0x199d6d770]
+1    ???   (CoreFoundation + 546236) [0x19fa595bc]
+     4      ??? (Foundation + 13244) [0x199d6c3bc]
+2    ???   (libobjc.A.dylib + 36708) [0x198cb8f64]
+1    ???   (libobjc.A.dylib + 43944) [0x198cbaba8]
+1    ???   (libobjc.A.dylib + 28736) [0x198cb7040]
+1    ???   (libobjc.A.dylib + 36752) [0x198cb8f90]
+2    ???   (Foundation + 13260) [0x199d6c3cc]
+1    ???   (libobjc.A.dylib + 89524) [0x198cc5db4]
+1    ???   (libobjc.A.dylib + 89468) [0x198cc5d7c]
+1    ???   (libsystem_pthread.dylib + 5936) [0x1e98cb730]
+1    ???   (Foundation + 5156476) [0x19a253e7c]
+1    ???   (Foundation + 17008) [0x199d6d270]
+1    ???   (Foundation + 13188) [0x199d6c384]
+1    ???   (libobjc.A.dylib + 120820) [0x198ccd7f4]
+1    ???   (libobjc.A.dylib + 43884) [0x198cbab6c]
+1    ???   (libobjc.A.dylib + 6200) [0x198cb1838]
+11   ???   (Foundation + 16156) [0x199d6cf1c]
+11   ???   (Foundation + 11692) [0x199d6bdac]
+11   ???   (Foundation + 12256) [0x199d6bfe0]
+11   ???   (Foundation + 4689052) [0x19a1e1c9c]
+6    ???   (Foundation + 13176) [0x199d6c378]
+3    ???   (Foundation + 5156704) [0x19a253f60]
+2    ???   (Foundation + 160932) [0x199d904a4]
+1    ???   (Foundation + 161200) [0x199d905b0]
+1    ???   (CoreFoundation + 70944) [0x19f9e5520]
+1    ???   (Foundation + 165700) [0x199d91744]
+1    ???   (CoreFoundation + 108756) [0x19f9ee8d4]
+1    ???   (CoreFoundation + 547116) [0x19fa5992c]
+1    ???   (libsystem_platform.dylib + 34284) [0x1e983b5ec]
+1    ???   (libobjc.A.dylib + 6144) [0x198cb1800]
+1    ???   (Foundation + 161012) [0x199d904f4]
+1    ???   (libobjc.A.dylib + 34936) [0x198cb8878]
+1    ???   (dyld + 6024) [0x1bd1b8788]
+1    ???   (dyld + 8764) [0x1bd1b923c]
+3    ???   (Foundation + 5156588) [0x19a253eec]
+2    ???   (Foundation + 9472) [0x199d6b500]
+2    ???   (Foundation + 10056) [0x199d6b748]
+1    ???   (CoreFoundation + 573360) [0x19fa5ffb0]
+1    ???   (CoreFoundation + 57584) [0x19f9e20f0]
+1    ???   (CoreFoundation + 526364) [0x19fa5481c]
+1    ???   (libobjc.A.dylib + 165048) [0x198cd84b8]
+3    ???   (Foundation + 12840) [0x199d6c228]
+2    ???   (Foundation + 5155492) [0x19a253aa4]
+2    ???   (CoreFoundation + 538028) [0x19fa575ac]
+2    ???   (CoreFoundation + 513892) [0x19fa51764]
+1    ???   (CoreFoundation + 522344) [0x19fa53868]
+1    ???   (libsystem_malloc.dylib + 25572) [0x1ad1313e4]
+1    ???   (libsystem_malloc.dylib + 11960) [0x1ad12deb8]
+1    ???   (libsystem_malloc.dylib + 9604) [0x1ad12d584]
+1    ???   (libsystem_malloc.dylib + 117832) [0x1ad147c48]
+1    ???   (CoreFoundation + 522288) [0x19fa53830]
+1    ???   (Foundation + 5155748) [0x19a253ba4]
+1    ???   (CoreFoundation + 104992) [0x19f9eda20]
+1    ???   (libsystem_c.dylib + 28776) [0x1a682b068]
+1    ???   (CoreFoundation + 35012) [0x19f9dc8c4]
+1    ???   (CoreFoundation + 515716) [0x19fa51e84]
+2    ???   (Foundation + 14204) [0x199d6c77c]
+2    ???   (Foundation + 18396) [0x199d6d7dc]
+2    ???   (Foundation + 82632) [0x199d7d2c8]
+2    ???   (CoreFoundation + 526940) [0x19fa54a5c]
+2    ???   (CoreFoundation + 513892) [0x19fa51764]
+1    ???   (CoreFoundation + 522628) [0x19fa53984]
+1    ???   (libobjc.A.dylib + 17184) [0x198cb4320]
+1    ???   (CoreFoundation + 522344) [0x19fa53868]
+1    ???   (libsystem_malloc.dylib + 25572) [0x1ad1313e4]
+1    ???   (libsystem_malloc.dylib + 11960) [0x1ad12deb8]
+1    ???   (libsystem_malloc.dylib + 10612) [0x1ad12d974]
+1    ???   (Foundation + 12372) [0x199d6c054]
+1    ???   (libobjc.A.dylib + 17840) [0x198cb45b0]
+1    ???   (libobjc.A.dylib + 4520) [0x198cb11a8]
+1    ???   (CoreFoundation + 491804) [0x19fa4c11c]
+1    ???   (libsystem_malloc.dylib + 17696) [0x1ad12f520]
+1    ???   (libsystem_malloc.dylib + 113424) [0x1ad146b10]
+1    ???   (libobjc.A.dylib + 6200) [0x198cb1838]
+1    ???   (CoreFoundation + 96300) [0x19f9eb82c]
+1    ???   (Foundation + 11896) [0x199d6be78]
+1    ???   (Foundation + 16480) [0x199d6d060]
+1    ???   (Foundation + 11672) [0x199d6bd98]
+1    ???   (Foundation + 16216) [0x199d6cf58]
+1    ???   (Foundation + 16192) [0x199d6cf40]
+1    ???   (libobjc.A.dylib + 17760) [0x198cb4560]
+1    ???   (Foundation + 16008) [0x199d6ce88]
+1    ???   (libobjc.A.dylib + 169984) [0x198cd9800]
+30   ???   (Foundation + 12256) [0x199d6bfe0]
+30    ??? (Foundation + 4689052) [0x19a1e1c9c]
+15    ??? (Foundation + 12840) [0x199d6c228]
+5     ??? (Foundation + 5155492) [0x19a253aa4]
+4     ??? (CoreFoundation + 538028) [0x19fa575ac]
+2     ??? (CoreFoundation + 513892) [0x19fa51764]
+1     ??? (libsystem_malloc.dylib + 17244) [0x1ad12f35c]
+1     ??? (libsystem_malloc.dylib + 17192) [0x1ad12f328]
+1     ??? (libsystem_platform.dylib + 3532) [0x1e9833dcc]
+1     ??? (CoreFoundation + 514020) [0x19fa517e4]
+1     ??? (libsystem_platform.dylib + 5312) [0x1e98344c0]
+3     ??? (Foundation + 5155580) [0x19a253afc]
+3     ??? (CoreFoundation + 104992) [0x19f9eda20]
+3     ??? (libsystem_c.dylib +
+  28776) [0x1a682b068]                                      2   ???
+(CoreFoundation + 35012) [0x19f9dc8c4]
+1     ??? (CoreFoundation + 24952) [0x19f9da178]
+1     ??? (CoreFoundation + 526384) [0x19fa54830]
+1     ??? (CoreFoundation + 24928) [0x19f9da160]
+1     ??? (CoreFoundation + 526304) [0x19fa547e0]
+1     ??? (CoreFoundation + 34984) [0x19f9dc8a8]
+2     ??? (Foundation + 5155748) [0x19a253ba4]
+2     ??? (CoreFoundation + 104992) [0x19f9eda20]
+2     ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+2     ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+2     ??? (CoreFoundation + 35944) [0x19f9dcc68]
+1     ??? (CoreFoundation + 526384) [0x19fa54830]
+1     ??? (CoreFoundation + 526364) [0x19fa5481c]
+2     ??? (Foundation + 5155552) [0x19a253ae0]
+1     ??? (libsystem_platform.dylib + 5364) [0x1e98344f4]
+1     ??? (CoreFoundation + 538028) [0x19fa575ac]
+1     ??? (CoreFoundation + 512080) [0x19fa51050]
+1     ??? (Foundation + 5155808) [0x19a253be0]
+1     ??? (CoreFoundation + 491804) [0x19fa4c11c]
+1     ??? (libsystem_platform.dylib + 4448) [0x1e9834160]
+1     ??? (Foundation + 5155676) [0x19a253b5c]
+1     ??? (CoreFoundation + 104992) [0x19f9eda20]
+1     ??? (libsystem_c.dylib + 28776) [0x1a682b068]
+1     ??? (CoreFoundation + 35012) [0x19f9dc8c4]
+1     ??? (CoreFoundation + 24928) [0x19f9da160]
+1     ??? (CoreFoundation + 526364) [0x19fa5481c]
+1     ??? (Foundation + 5155664) [0x19a253b50]
+1     ??? (CoreFoundation + 1342196) [0x19fb1baf4]
+8     ??? (Foundation + 13176) [0x199d6c378]
+4     ??? (Foundation + 5156588) [0x19a253eec]
+2     ??? (Foundation + 9680) [0x199d6b5d0]
+2     ??? (CoreFoundation + 735536) [0x19fa87930]
+1     ??? (CoreFoundation + 23056) [0x19f9d9a10]
+1     ??? (CoreFoundation + 440856) [0x19fa3fa18]
+1     ??? (CoreFoundation + 519236) [0x19fa52c44]
+1     ??? (libsystem_malloc.dylib + 4156) [0x1ad12c03c]
+1     ??? (CoreFoundation + 23056) [0x19f9d9a10]
+1     ??? (Foundation + 9472) [0x199d6b500]
+1     ??? (Foundation + 10056) [0x199d6b748]
+1     ??? (CoreFoundation + 60468) [0x19f9e2c34]
+1     ??? (libobjc.A.dylib + 6304) [0x198cb18a0]
+1     ??? (Foundation + 5156888) [0x19a254018]
+1     ??? (libobjc.A.dylib + 11912) [0x198cb2e88]
+1     ??? (Foundation + 5156736) [0x19a253f80]
+1     ??? (libobjc.A.dylib + 23272) [0x198cb5ae8]
+1    ??? (Foundation + 5156588) [0x19a253eec]
+1    ??? (libobjc.A.dylib + 169828) [0x198cd9764]
+3    ??? (Foundation + 14204) [0x199d6c77c]
+1    ??? (CoreFoundation + 552752) [0x19fa5af30]
+1    ??? (Foundation + 18396) [0x199d6d7dc]
+1    ??? (Foundation + 8629408) [0x19a5a3ca0]
+1    ??? (Foundation + 18320) [0x199d6d790]
+1    ??? (CoreFoundation + 566332) [0x19fa5e43c]
+2    ??? (Foundation + 13244) [0x199d6c3bc]
+2    ??? (libobjc.A.dylib + 43944) [0x198cbaba8]
+1    ??? (libobjc.A.dylib + 27040) [0x198cb69a0]
+1    ??? (libobjc.A.dylib + 7404) [0x198cb1cec]
+1    ??? (Foundation + 13260) [0x199d6c3cc]
+1    ??? (libobjc.A.dylib + 89448) [0x198cc5d68]
+1    ??? (libobjc.A.dylib + 107052) [0x198cca22c]
+1    ??? (libobjc.A.dylib + 6256) [0x198cb1870]
+3    ??? (Foundation + 12336) [0x199d6c030]                                                  2
+??? (Foundation + 16692) [0x199d6d134]                                                    2
+??? (CoreFoundation + 10796) [0x19f9d6a2c]
+1    ??? (CoreFoundation + 11192) [0x19f9d6bb8]
+1    ??? (CoreFoundation + 11096) [0x19f9d6b58]
+1    ??? (CoreFoundation + 11300) [0x19f9d6c24]
+1    ??? (CoreFoundation + 488992) [0x19fa4b620]
+1    ??? (libobjc.A.dylib + 6144) [0x198cb1800]
+1    ??? (Foundation + 16976) [0x199d6d250]
+1    ??? (Foundation + 16112) [0x199d6cef0]
+1    ??? (libobjc.A.dylib + 24816) [0x198cb60f0]
+1    ??? (LoggingSupport + 7188) [0x1b78d1c14]
+1    ??? (LoggingSupport + 119164) [0x1b78ed17c]                                  1      ???
+(LoggingSupport + 20616) [0x1b78d5088]                        1         ???
+(LoggingSupport + 15308) [0x1b78d3bcc]                            1        ???
+(LoggingSupport + 19944) [0x1b78d4de8]                                1       ???
+(libsystem_c.dylib + 61556) [0x1a6833074]                           1       ???
+(LoggingSupport + 14676) [0x1b78d3954]                            1        ???
+(LoggingSupport + 17636) [0x1b78d44e4]                                1       ???
+(LoggingSupport + 17872) [0x1b78d45d0]                                   1      ???
+(LoggingSupport + 47936) [0x1b78dbb40]                                      1       ???
+(libobjc.A.dylib + 17840) [0x198cb45b0]                                         1       ???
+(libobjc.A.dylib + 11972) [0x198cb2ec4]                         1        ???
+(LoggingSupport + 13492) [0x1b78d34b4]                            1        ???
+(LoggingSupport + 18936) [0x1b78d49f8]                                1       ???
+(libsystem_kernel.dylib + 11136) [0x1da44cb80]                                       1
+<Kernel mode>    Binary Images:             0x1004f0000 -           0x1004fbfff
+com.apple.DASDelegateService 1.0 (1) <41392F05-8606-3CE9-9EDB-AF9F9142D9FD>
+/System/Library/PrivateFrameworks/DASDelegate.framework/XPCServices/
+DASDelegateService.xpc/DASDelegateService             0x198cb0000 -
+0x198ce9e9f libobjc.A.dylib                        <3038F24A-31A3-395B-9CE6-
+CE7B8657A6CF> /usr/lib/libobjc.A.dylib              0x199d69000 -               0x19a5b0fff
+Foundation                           <5DAF670F-4591-3F5C-A89C-92A238763FD1>
+/System/Library/Frameworks/Foundation.framework/Foundation                    0x19f9d4000 -
+0x19fda2fff CoreFoundation                         <14B73572-A1BC-3C77-A58A-
+A64A28663D46> /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+0x1a671b000 -        0x1a679efff libdispatch.dylib                             <A893D1C3-
+FCC0-3FBA-8AED-CBDC8C4C37CE> /usr/lib/system/libdispatch.dylib
+0x1a6824000 -        0x1a689dfff libsystem_c.dylib                             <B9465F40-
+DBF0-341F-8C1B-BD6ABE2ECEFC> /usr/lib/system/libsystem_c.dylib
+0x1ad12b000 -        0x1ad14dfff libsystem_malloc.dylib                        <B0ADB401-
+5B0D-3B9F-A63E-7CCD8B36A364> /usr/lib/system/libsystem_malloc.dylib
+0x1b78d0000 -        0x1b7935fff LoggingSupport                                <CEA6A2A3-
+ED69-37AD-850A-9F898FC12F73>
+/System/Library/PrivateFrameworks/LoggingSupport.framework/LoggingSupport
+0x1bd1b7000 -        0x1bd23389b dyld                                  <57D51D04-
+7AC8-335B-95AA-734C226E2E9E> /usr/lib/dyld             0x1da44a000 -
+0x1da47ffe7 libsystem_kernel.dylib                <D0B19F3B-06B4-318E-A2A3-
+AA48D017BCF1> /usr/lib/system/libsystem_kernel.dylib             0x1e9833000 -
+0x1e983dfe3 libsystem_platform.dylib              <0E98A328-F054-3D6B-B106-
+1961373F52EC> /usr/lib/system/libsystem_platform.dylib             0x1e98ca000 -
+0x1e98dafff libsystem_pthread.dylib               <D44F7514-530A-3FA1-A47D-
+22F9DEB51FD0> /usr/lib/system/libsystem_pthread.dylib,timeout=100000,script-
+update-interval=0,enable=true
+
+[MITM]
+ca-passphrase = Shadowrocket
+ca-p12 =
+MIIP4QIBAzCCD6gGCSqGSIb3DQEHAaCCD5kEgg+VMIIPkTCCCh8GCSqGSIb3DQEHBqCCChAwggoMAgEAMII
+KBQYJKoZIhvcNAQcBMBwGCiqGSIb3DQEMAQYwDgQIO7a5SGaGNI0CAggAgIIJ2Iw+PMbdfMWuzPMIQu+ltZ
+02nCjd4JH9znvq05uIjykICipWYRgwA7i0eqrL+RlljaJbJ5oOh/
+hJaa4QKC3vOpHQKfTY6ozX+qRLzOXGyCnQq2sNZNWW17xoI8A+wxmowG1I9v8uogt8k7812/
+xET8MHFkmMd/HI98FPK37GRTWqFkpIp4h8YrUSumo0MFEEQfeDnTTjZ+FJx/
+xMDuOzm6Yzobk2WVCLQ4ePoLjJid4HzuQ/
+r4ZjYMqhT6PxbGRgqPLiZJf2feePEYwZE5qb0cjNH0khA8yoSw2v8IEaeRIvAFATRPQjJWc4yX2zOgdOajM
+2SwpMiYoafT7ShnE9fETwAi+xK+Zcd+WkVpEUIDXN2b5mTmQfZQMabUtJTWlLY+0N+vX7b38vRAbjnFntfg
+aU9swZsZqWEpuu5wkb4usgkOxEV38nv0WbbUcQKeD7DQE3XUTO9g6tWJpBVKRkmgkYNAufsr9Tfj0X/
+M2xTyYA0iD0Zx74WC5Jzb1umdnp8P0yXaMsAc0voCnnuJbmSNJnfkOeFbImMry/
+Ug1QQBRpMPQEyf3x5V92Ggob/K7XqhZcythoervuv7RWpQUYZuq4TuVmpSxM4ASIQuOW8H/
+EQmvQGeT2q7NwWMF+f1FSGnzFzTnPEQ5x1DRPWLPyQXLN16AatBP1Tq+NZHIWCP1zCIf/
+8Ze0u77VtJpdp2KkbbkrS0FoDDLn0gexAupeJTCn6qkGb42Wx9QqC6ASWpJT+CfG4zZ1tplpKputTXwtZPx
+20jztSDfWat5YBsWJk0gfgxQb+zHfPHOufVEAHx1wcDRCnCVlDDwajKfMkhNLumOy4MJ84pIzPsAiVXsIuz
+Td7ihVDo1QZSf7B+Bc3GPLWITUUB1i7WyFwRwuHO4CviTQZzyzQpGTEbwQtloRONK+MUfM6lN00uriP4oPH
+y93MfDC0nUDX6fCBpaJr/
+tczFkDMtGN+4onTimqbSSoBVak8m+zcGx32RmdXj8vQkn4Y1Mr6HPcooQY81+UjRl6WEp4xKWa/
+tR9P1hDWZvOP0yDqU0erWgD+mSrM+MWmqn+iWSMJBe7zWH82T36Uqk9uTfclJIifV2A1cyjTLhl5bARZ54U
+3b8g1Hbp8UoFN7O+ituNDZgLuZ2xyH6hutqcwCA2Jlq7NoW8CgbeAXuGPyi1rU7w5tj5GKbtPNcmw4/
+LU5i5s1N3rQknr3oMbRZitfEwRoDJmc08Y3V/
+QmDRGzinXtHvpJhllN1k2ZJvfPDPsYQ3TR9hIEmM32u2DPxmLL6ZSKbK3TObe6s+lwj/
+CAFhOmVFIJVLeKy6ufgjcKyV/e9geRPg1yNyCntGzjzMNBxxvaVUXVe76eNBVUkfdqy0g7aslgL0HPU/
+MmzD0KRY6getyhbkhql77FYZvjE5ksFlqXRsZO6tn/ySxyy71lYRdKrBa0l3//
+BWS5CRU+tuuq6iEc+A44hxAgAcFNHKFysaAiLkflP+JlyxFU/
+RLXPqAwFzh3RCfXPPpT+MnPLRC0b5k2pF1qYqhVSZLplQrlcPkQ3GXzvMi9GZzAU+xXhVykakJSQv9XMJPY
+mMfCMZVtTOPyAt26FbVHIvPmteUfym38BkQmE+WujI7wNcV84QIV4LjAruqhvMQ+j2Y0OSS+1GSYy7uA/
+GnTFSQlaDOTTOnTwU2cq1gs5nJ8e3cSoks85sE8UE7YBLXDi+yA7QjAnFTQyGKQAsw6Pbr6LRY5nwXnOZGD
+AK4jYSTpN1D+3Jp4tbuY4CEboMi0n8oe5EqAFybC5tE/
+OiXajfgh6nHCs0lWZfz8UxxsPJhtvdxgtwxgoN8EzWg4mSR86D83bXhXuvS3QtSZHewl6tmRUXP1zXAMIs8
+AHhZcs6IigyilUqTLIqmKlfjNQfNF4VR4JoHI+a3q3k3vhm2LtC5RBFs9WOQlwDZLjlQw1ZAY/
+dvkIpN1pCPpmBze+kTBiiGRZjXUGy8TV3sOT/
+wrx+1fc9N4+P8fQMZz85hqP+B4gN0vVDxvtEzqnb3SLaNnnDx//
+C+lAafF4Dy8kLloSCbBY7qrZp1I8CL9IdUcWfe4ikeslyMzHzXwKiZMz1iA9Ksu/njIY/
+9nXbDALLJZnPJXEw2Tja4PERuRw+HnYVVlnzO4l4frk77LoooZzEqldoik0kf7knSMEyiGNffkv8ljP58cF
+Tjv9BugOXnJ3iN/
+jXKECYAW+ZCgO2jpNcmBY0JcUiBNwAQaODnjPZ7mmxzhCuU59u03Jxh81TM7u33XkzBQ3wXhlVPK61elYK/
+NzAWsdqvTv9AZwoOxupo2+l1Hs5QpnSe/a2hPm/
+URRX51evT5jlwZEvhRobtijgPB41LnVeKwZB2kv7aCDzc0K9AoeugjCA/
+Wdt5NL4BJB9s5W1iXaopv9NjJaEXmlWfVn4uznYnjs7yW2/7qCt/
+q1RM053QQZDZCLZ2SyYGlkYTdWXjJXe3JyQaiae3S42bwXc4pmcAz4RiA6HBWm/
+0UAa5DYEryLHRxY0yWxgDiC2ZDJqgvsglOVJ8mdHnmtRNwuPMdbfZx6bEAsjdYnK93PcAcgrieSIom+SkZ4
+I79KC6+4oVUd5f29oc5bUASa7FhF3Z/FrfjFSbaMSW8OLb1RSFHSL0EnC9aCYvhQy/
+FmZjZ4/+wh28lVfpcz1I02SxKocyYyGdhHbaqoiXix48ZyJEdhWBeH8zUpbQa+LoHC2VqyYVUmggN13yVPC
+anrMUULFWfvULWx8G+LnRyKAjVX0a9sk7lNlGATjP35eueF5sVIzSiE55wjsOXfMxdp+GyZa3rAniqgaK/
+fKscQreCTJJf/
+K1tob6FXsPkNm4GRqeSABUbpTJ7aG9HCYJ3kEDR55xKDwfGVUysv2hoinLys3zZF4pk3uQkbtQA7hYurS3e
+uaHSEbGHcjwHzwStMs596ckFVl2d00/xX2vOuYI1dp7RzYdiXV8ExchO/0fY7B7JJUfTddb/
+HT7JHPgtH7tcvLxb6x4gAcqI3oW3HDPbn3bCP38d3yQ81jbDN7hHBFfcwcmLnYyhK8Ojp4wa0sZhOVmQd7N
+dIvRrKpHhy83MKTCrjR70aEfMaMM2LF/OiU2Hkz82YO/4cbVY1PLdt/
+yLpzddp41Q2s5lnOHOvJIjMh3+c+LtRzj6oOjb+G941LOGGLlG14MVbidwUbyYBoxOPFJD6U45la5eh7vwf
+SdzWpQtq3FY/Ear0SSb5DoQovHRpkDwiuBYbRBEe/M8MUN6l2eUBsXu+6xUOtiwV029/
+AHT5sNkwzzRDyBOiBNAtbyaEDIMh2hFkSGBgzpWlWYBEV+wz6sxlw9O8cH2aDCmPhe3iywuUiHPMJOzi/
+DdMI3OqdDdEYCFt5xVcLUjCCBWoGCSqGSIb3DQEHAaCCBVsEggVXMIIFUzCCBU8GCyqGSIb3DQEMCgECoII
+E7jCCBOowHAYKKoZIhvcNAQwBAzAOBAih+1Nm6rb3HwICCAAEggTI+cyG3YWQiiHzoQKwiTO1DQH8NiMozy
+tTOtJbjRPnx926pJO7HhwS9/97xwWAdE8wclZqvNcZKS3DqYY0JHdrZkmxeDPe5+uiod3y5xv820bCPCGTn
+7kAVltKOJqtbn5bWMEhtvWz6YvTdMu3cBzmswrHtpTeq+od6KGcKIUClKV/+VFyjj2ksdHcEe/
+b9dT3Dkw79Av/
+LEaWtOWUqqrDtg7WtrBO1bBnQvAFlaRfmkvDbiRgDwVYwMlT+U0KdET+qKM0jVbXo+INBcKeh1u94Ghlfi0
+ZY8CR4QtntSXg1URtQR19ZmXRt9eivQNDbGJNLVQ2I3g8hun9I6yJ6+WtL/
+T9hDwGyOef3qin7pWk5s3ISwDDJYJA1fLU+dmsAJQ1dAPnhFnRsBMFFRKq5RsSlPsE5TrIClJw23SwilqIX
+DZ85pMKxSovPtpLXL/DkhPUU0ysKWl4/H43d65JZnRYfr3EKWlOrvNX1XKQro/
+fjF1BYQnP4HGFidTqMeMHx6FMxXc86L3mdHMQI5V2KHdbluwAYkqyzV0HGGOWVLM41rL+3IIQXqv0KGZ1N+
+QxV+gTraKG7r+jt4kXvtRyaqagYsLM66Ha7zXd/
+kitsNWDOiCVEugzTAu2KaLT+jtkntB53dWOfnncZN6O0mZxfmmrp1/
+jotk86Xm+kOWA4bHuDEQJVsOUdveX/rozP7aJQquGUmXmTI7OmGNRk/AoO/
+mXEz4QFdcq9pKVtTH3eckl+D/
+5qCh3MGsbpWqZlp42chjpDm0dDJdsjlwlQ83CFOemcfEhUZTgC8rHqLQn6mtSpNoPmMDfmAUkLU9anCnUxA
+kAgH4BLu/Aj7IC88nzAd/
+U0SjjY1nPNgwFA9NhNoyqyHVFMfMnlGLyFRoK6+YlCUyv821ZrcpdbrDdqTZH0VocfCXbJzbRb6U1ZHlPFF
+K8PQBgbqpl01UwVdZLQk7WGdSCLucSBLsf6Q5rsTjhFSXBoSf0PKTz1jyGsKnPB0k4qdtg6X3TbKv3e4F8H
+0BZi7L1qwoIhqqJRy7bGZoPHK4zJPujRSl7dktdtnPpiiceIaN+B8KR7ZYslMrQP8H/
+0UgljU35PqZ+h+tQWmLqBkOzHqYvOE+tUK9uJHLXsSpXMR3O3nQFrPmn27J2aOee8jliiepOi+5QQorb1c2
+y0PeQiXpNgvsuIaHnuF/Dqto+KwrubX6DvhBVbnynyEFjXnEd3/7rgbc9zWTNMtRtjCGWbcoR5joIcH/
+YHcaYEwPyjwVwdPsnpp7Nz1gcd8pxwjWX2FuwLS/
+nFSIRCgqmxN4dK6kQy+deO9m1RnA92prm9cymHIE4EYBXXMk/OeKTMx3Ixg18K3+AADU/
+dkEHSwrzFK1znnqBa+krwIewsYna+9EV8DTT9iyRmKXLgxsRL33Vmbn4GhSk2WNHlEdo5C2/
+psidfGlp93q2GhUxRUQF8bXLcfHzmeie7YJbPdWR2GiLZFKa6/
+KsEZPRyhpJsYBTOG5pwQ2tKeLIopRUf9urYKRzY7pTqwEGVmT3Naop6cW+VAd/sEC/
+Ws+1QkyTQNJlswnZ0VsboBFwY7YEKZ+dWI4jSNI44lptw7QYsT9onsBDtpofXQ7Lz9y2B8U1ykUdC3PR4Cz
+IvZnoMU4wIwYJKoZIhvcNAQkVMRYEFHIB6Ze+qbpNLk9TMCsP3x6kYiUpMCcGCSqGSIb3DQEJFDEaHhgAUw
+BoAGEAZABvAHcAcgBvAGMAawBlAHQwMDAhMAkGBSsOAwIaBQAEFFml+jq0fS7KHVW2RNSWzoc3Dx/
+DBAjfiZ8jnPjUWgIBAQ==
+enable = true
+hostname = http://localhost:9898/Local/DASDelegateService.cpu_resource-2023-08-01-
+222938.ips?8A4A5BAC-7E92-41B7-ADD5-F554F1A23314
+
